@@ -1,0 +1,561 @@
+,PERSON_ID,FIRST_NAME,LAST_NAME,BIRTHDATE,SCHOOL,COUNTRY,LAST_AFFILIATION,HEIGHT,WEIGHT,SEASON_EXP,JERSEY,POSITION,ROSTERSTATUS,TEAM_NAME,TEAM_ABBREVIATION,TEAM_CITY,FROM_YEAR,TO_YEAR,NBA_FLAG,GAMES_PLAYED_FLAG,DRAFT_YEAR,DRAFT_ROUND,DRAFT_NUMBER,GREATEST_75_FLAG,HEIGHT_DEC
+0,1630173,Precious,Achiuwa,1999-09-19T00:00:00,Memphis,Nigeria,Memphis/Nigeria,6-8,225.0,2,5.0,Forward,Active,Raptors,TOR,Toronto,2020.0,2022.0,Y,Y,2020,1,20,N,6.667
+1,203500,Steven,Adams,1993-07-20T00:00:00,Pittsburgh,New Zealand,Pittsburgh/New Zealand,6-11,265.0,9,4.0,Center,Active,Grizzlies,MEM,Memphis,2013.0,2022.0,Y,Y,2013,1,12,N,6.917
+2,1628389,Bam,Adebayo,1997-07-18T00:00:00,Kentucky,USA,Kentucky/USA,6-9,255.0,5,13.0,Center-Forward,Active,Heat,MIA,Miami,2017.0,2022.0,Y,Y,2017,1,14,N,6.75
+3,1630534,Ochai,Agbaji,2000-04-20T00:00:00,Kansas,USA,Kansas/USA,6-5,215.0,0,30.0,Guard,Active,Jazz,UTA,Utah,2022.0,2022.0,Y,Y,2022,1,14,N,6.417
+4,1630583,Santi,Aldama,2001-01-10T00:00:00,Loyola-Maryland,Spain,Loyola-Maryland/Spain,7-0,215.0,1,7.0,Forward-Center,Active,Grizzlies,MEM,Memphis,2021.0,2022.0,Y,Y,2021,1,30,N,7.0
+5,1629638,Nickeil,Alexander-Walker,1998-09-02T00:00:00,Virginia Tech,Canada,Virginia Tech/Canada,6-5,205.0,3,9.0,Guard,Active,Timberwolves,MIN,Minnesota,2019.0,2022.0,Y,Y,2019,1,17,N,6.417
+6,1628960,Grayson,Allen,1995-10-08T00:00:00,Duke,USA,Duke/USA,6-4,198.0,4,12.0,Guard,Active,Bucks,MIL,Milwaukee,2018.0,2022.0,Y,Y,2018,1,21,N,6.333
+7,1628386,Jarrett,Allen,1998-04-21T00:00:00,Texas,USA,Texas/USA,6-9,243.0,5,31.0,Center,Active,Cavaliers,CLE,Cleveland,2017.0,2022.0,Y,Y,2017,1,22,N,6.75
+8,1630631,Jose,Alvarado,1998-04-12T00:00:00,Georgia Tech,USA,Georgia Tech/USA,6-0,179.0,1,15.0,Guard,Active,Pelicans,NOP,New Orleans,2021.0,2022.0,Y,Y,Undrafted,Undrafted,Undrafted,N,6.0
+9,203937,Kyle,Anderson,1993-09-20T00:00:00,UCLA,USA,UCLA/USA,6-9,230.0,8,5.0,Forward-Guard,Active,Timberwolves,MIN,Minnesota,2014.0,2022.0,Y,Y,2014,1,30,N,6.75
+10,203507,Giannis,Antetokounmpo,1994-12-06T00:00:00,Filathlitikos,Greece,Filathlitikos/Greece,7-0,243.0,9,34.0,Forward,Active,Bucks,MIL,Milwaukee,2013.0,2022.0,Y,Y,2013,1,15,Y,7.0
+11,1628961,Kostas,Antetokounmpo,1997-11-20T00:00:00,Dayton,Greece,Dayton/Greece,6-10,200.0,4,37.0,Forward,Inactive,Lakers,LAL,Los Angeles,2018.0,2020.0,Y,Y,2018,2,60,N,6.833
+12,203648,Thanasis,Antetokounmpo,1992-07-18T00:00:00,Panathinaikos,Greece,Panathinaikos/Greece,6-7,219.0,4,43.0,Forward,Active,Bucks,MIL,Milwaukee,2015.0,2022.0,Y,Y,2014,2,51,N,6.583
+13,1630175,Cole,Anthony,2000-05-15T00:00:00,North Carolina,USA,North Carolina/USA,6-3,185.0,2,50.0,Guard,Active,Magic,ORL,Orlando,2020.0,2022.0,Y,Y,2020,1,15,N,6.25
+14,1628384,O.G.,Anunoby,1997-07-17T00:00:00,Indiana,United Kingdom,Indiana/United Kingdom,6-7,232.0,5,3.0,Forward,Active,Raptors,TOR,Toronto,2017.0,2022.0,Y,Y,2017,1,23,N,6.583
+15,1627853,Ryan,Arcidiacono,1994-03-26T00:00:00,Villanova,USA,Villanova/USA,6-3,195.0,5,51.0,Guard,Active,Trail Blazers,POR,Portland,2017.0,2022.0,Y,Y,Undrafted,Undrafted,Undrafted,N,6.25
+16,1630166,Deni,Avdija,2001-01-03T00:00:00,Maccabi Tel Aviv,Israel,Maccabi Tel Aviv/Israel,6-9,210.0,2,9.0,Forward,Active,Wizards,WAS,Washington,2020.0,2022.0,Y,Y,2020,1,9,N,6.75
+17,1629028,Deandre,Ayton,1998-07-23T00:00:00,Arizona,Bahamas,Arizona/Bahamas,7-0,250.0,4,22.0,Center,Active,Suns,PHX,Phoenix,2018.0,2022.0,Y,Y,2018,1,1,N,7.0
+18,1628962,Udoka,Azubuike,1999-09-17T00:00:00,Kansas,Nigeria,Kansas/Nigeria,6-11,270.0,2,20.0,Center-Forward,Active,Jazz,UTA,Utah,2020.0,2022.0,Y,Y,2020,1,27,N,6.917
+19,1628963,Marvin,Bagley III,1999-03-14T00:00:00,Duke,USA,Duke/USA,6-10,235.0,4,35.0,Forward,Active,Pistons,DET,Detroit,2018.0,2022.0,Y,Y,2018,1,2,N,6.833
+20,1631116,Patrick,Baldwin Jr.,2002-11-18T00:00:00,Wisconsin-Milwaukee,USA,Wisconsin-Milwaukee/USA,6-9,220.0,0,7.0,Forward,Active,Warriors,GSW,Golden State,2022.0,2022.0,Y,Y,2022,1,28,N,6.75
+21,1630163,LaMelo,Ball,2001-08-22T00:00:00,Illawarra,USA,Illawarra/USA,6-7,180.0,2,1.0,Guard,Active,Hornets,CHA,Charlotte,2020.0,2022.0,Y,Y,2020,1,3,N,6.583
+22,1628366,Lonzo,Ball,1997-10-27T00:00:00,UCLA,USA,UCLA/USA,6-6,190.0,5,2.0,Guard,Active,Bulls,CHI,Chicago,2017.0,2022.0,Y,Y,2017,1,2,N,6.5
+23,1628964,Mo,Bamba,1998-05-12T00:00:00,Texas,USA,Texas/USA,7-0,231.0,4,12.0,Center,Active,Lakers,LAL,Los Angeles,2018.0,2022.0,Y,Y,2018,1,6,N,7.0
+24,1631094,Paolo,Banchero,2002-11-12T00:00:00,Duke,USA,Duke/USA,6-10,250.0,0,5.0,Forward,Active,Magic,ORL,Orlando,2022.0,2022.0,Y,Y,2022,1,1,N,6.833
+25,1630217,Desmond,Bane,1998-06-25T00:00:00,TCU,USA,TCU/USA,6-5,215.0,2,22.0,Guard,Active,Grizzlies,MEM,Memphis,2020.0,2022.0,Y,Y,2020,1,30,N,6.417
+26,1630625,Dalano,Banton,1999-11-07T00:00:00,Nebraska,Canada,Nebraska/Canada,6-7,204.0,1,45.0,Forward,Active,Raptors,TOR,Toronto,2021.0,2022.0,Y,Y,2021,2,46,N,6.583
+27,1631230,Dominick,Barlow,2003-05-26T00:00:00,                                   ,USA,Overtime Elite/USA,6-9,215.0,0,26.0,Forward,Active,Spurs,SAS,San Antonio,2022.0,2022.0,Y,Y,Undrafted,Undrafted,Undrafted,N,6.75
+28,203084,Harrison,Barnes,1992-05-30T00:00:00,North Carolina,USA,North Carolina/USA,6-8,225.0,10,40.0,Forward,Active,Kings,SAC,Sacramento,2012.0,2022.0,Y,Y,2012,1,7,N,6.667
+29,1630567,Scottie,Barnes,2001-08-01T00:00:00,Florida State,USA,Florida State/USA,6-8,225.0,1,4.0,Forward,Active,Raptors,TOR,Toronto,2021.0,2022.0,Y,Y,2021,1,4,N,6.667
+30,1629628,RJ,Barrett,2000-06-14T00:00:00,Duke,Canada,Duke/Canada,6-6,214.0,3,9.0,Forward-Guard,Active,Knicks,NYK,New York,2019.0,2022.0,Y,Y,2019,1,3,N,6.5
+31,203115,Will,Barton,1991-01-06T00:00:00,Memphis,USA,Memphis/USA,6-5,181.0,10,1.0,Guard,Active,Raptors,TOR,Toronto,2012.0,2022.0,Y,Y,2012,2,40,N,6.417
+32,1629646,Charles,Bassey,2000-10-28T00:00:00,Western Kentucky,Nigeria,Western Kentucky/Nigeria,6-9,230.0,1,28.0,Center-Forward,Active,Spurs,SAS,San Antonio,2021.0,2022.0,Y,Y,2021,2,53,N,6.75
+33,1628966,Keita,Bates-Diop,1996-01-23T00:00:00,Ohio State,USA,Ohio State/USA,6-8,229.0,4,31.0,Forward,Active,Spurs,SAS,San Antonio,2018.0,2022.0,Y,Y,2018,2,48,N,6.667
+34,201587,Nicolas,Batum,1988-12-14T00:00:00,Le Mans,France,Le Mans/France,6-8,230.0,14,33.0,Guard-Forward,Active,Clippers,LAC,LA,2008.0,2022.0,Y,Y,2008,1,25,N,6.667
+35,203145,Kent,Bazemore,1989-07-01T00:00:00,Old Dominion,USA,Old Dominion/USA,6-4,195.0,11,9.0,Guard-Forward,Inactive,Lakers,LAL,Los Angeles,2012.0,2021.0,Y,Y,Undrafted,Undrafted,Undrafted,N,6.333
+36,1629647,Darius,Bazley,2000-06-12T00:00:00,Princeton HS (OH),USA,Princeton HS (OH)/USA,6-9,216.0,3,55.0,Forward,Active,Suns,PHX,Phoenix,2019.0,2022.0,Y,Y,2019,1,23,N,6.75
+37,203078,Bradley,Beal,1993-06-28T00:00:00,Florida,USA,Florida/USA,6-4,207.0,10,3.0,Guard,Active,Wizards,WAS,Washington,2012.0,2022.0,Y,Y,2012,1,3,N,6.333
+38,1627736,Malik,Beasley,1996-11-26T00:00:00,Florida State,USA,Florida State/USA,6-4,187.0,6,5.0,Guard,Active,Lakers,LAL,Los Angeles,2016.0,2022.0,Y,Y,2016,1,19,N,6.333
+39,1630699,MarJon,Beauchamp,2000-10-12T00:00:00,NBA G League Ignite,USA,NBA G League Ignite/USA,6-7,199.0,0,0.0,Forward,Active,Bucks,MIL,Milwaukee,2021.0,2022.0,Y,Y,2022,1,24,N,6.583
+40,202722,Davis,Bertans,1992-11-12T00:00:00,Baskonia,Latvia,Baskonia/Latvia,6-10,225.0,6,44.0,Forward,Active,Mavericks,DAL,Dallas,2016.0,2022.0,Y,Y,2011,2,42,N,6.833
+41,201976,Patrick,Beverley,1988-07-12T00:00:00,Arkansas,USA,Arkansas/USA,6-2,180.0,10,21.0,Guard,Active,Bulls,CHI,Chicago,2012.0,2022.0,Y,Y,2009,2,42,N,6.167
+42,1630180,Saddiq,Bey,1999-04-09T00:00:00,Villanova,USA,Villanova/USA,6-7,215.0,2,41.0,Forward,Active,Hawks,ATL,Atlanta,2020.0,2022.0,Y,Y,2020,1,19,N,6.583
+43,203920,Khem,Birch,1992-09-28T00:00:00,UNLV,Canada,UNLV/Canada,6-8,233.0,5,24.0,Center,Active,Spurs,SAS,San Antonio,2017.0,2022.0,Y,Y,Undrafted,Undrafted,Undrafted,N,6.667
+44,1629048,Goga,Bitadze,1999-07-20T00:00:00,Mega Basket,Georgia,Mega Basket/Georgia,6-11,250.0,3,88.0,Center-Forward,Active,Magic,ORL,Orlando,2019.0,2022.0,Y,Y,2019,1,18,N,6.917
+45,202687,Bismack,Biyombo,1992-08-28T00:00:00,Baloncesto Fuenlabrada,DRC,Baloncesto Fuenlabrada/DRC,6-8,255.0,11,18.0,Center,Active,Suns,PHX,Phoenix,2011.0,2022.0,Y,Y,2011,1,7,N,6.667
+46,1631205,Buddy,Boeheim,1999-11-11T00:00:00,Syracuse,USA,Syracuse/USA,6-6,205.0,0,27.0,Forward,Active,Pistons,DET,Detroit,2022.0,2022.0,Y,Y,Undrafted,Undrafted,Undrafted,N,6.5
+47,203992,Bogdan,Bogdanovic,1992-08-18T00:00:00,Fenerbahce,Serbia,Fenerbahce/Serbia,6-5,225.0,5,13.0,Guard,Active,Hawks,ATL,Atlanta,2017.0,2022.0,Y,Y,2014,1,27,N,6.417
+48,202711,Bojan,Bogdanovic,1989-04-18T00:00:00,Fenerbahce,Croatia,Fenerbahce/Croatia,6-7,226.0,8,44.0,Forward,Active,Pistons,DET,Detroit,2014.0,2022.0,Y,Y,2011,2,31,N,6.583
+49,1629626,Bol,Bol,1999-11-16T00:00:00,Oregon,Sudan,Oregon/Sudan,7-2,220.0,3,10.0,Center-Forward,Active,Magic,ORL,Orlando,2019.0,2022.0,Y,Y,2019,2,44,N,7.167
+50,1629716,Marques,Bolden,1998-04-17T00:00:00,Duke,USA,Duke/USA,6-10,249.0,3,,Center,Inactive,,,,2019.0,2020.0,Y,Y,2019,,,N,6.833
+51,1630195,Leandro,Bolmaro,2000-09-11T00:00:00,FC Barcelona,Argentina,FC Barcelona/Argentina,6-6,200.0,1,,Forward,Inactive,,,,2021.0,2022.0,Y,Y,2020,1,23,N,6.5
+52,1626164,Devin,Booker,1996-10-30T00:00:00,Kentucky,USA,Kentucky/USA,6-5,206.0,7,1.0,Guard,Active,Suns,PHX,Phoenix,2015.0,2022.0,Y,Y,2015,1,13,N,6.417
+53,1630527,Brandon,Boston Jr.,2001-11-28T00:00:00,Kentucky,USA,Kentucky/USA,6-6,188.0,1,4.0,Guard,Active,Clippers,LAC,LA,2021.0,2022.0,Y,Y,2021,2,51,N,6.5
+54,1628449,Chris,Boucher,1993-01-11T00:00:00,Oregon,Saint Lucia,Oregon/Saint Lucia,6-9,200.0,5,25.0,Forward-Center,Active,Raptors,TOR,Toronto,2017.0,2022.0,Y,Y,Undrafted,Undrafted,Undrafted,N,6.75
+55,1630547,James,Bouknight,2000-09-18T00:00:00,Connecticut,USA,Connecticut/USA,6-4,190.0,1,2.0,Guard,Active,Hornets,CHA,Charlotte,2021.0,2022.0,Y,Y,2021,1,11,N,6.333
+56,1631123,Jamaree,Bouyea,1999-06-27T00:00:00,San Francisco,USA,San Francisco/USA,6-2,180.0,0,,Guard,Inactive,,,,2022.0,2022.0,Y,Y,Undrafted,Undrafted,Undrafted,N,6.167
+57,1628396,Tony,Bradley,1998-01-08T00:00:00,North Carolina,USA,North Carolina/USA,6-11,248.0,5,,Center-Forward,Inactive,,,,2017.0,2022.0,Y,Y,2017,1,28,N,6.917
+58,1631103,Malaki,Branham,2003-05-12T00:00:00,Ohio State,USA,Ohio State/USA,6-4,180.0,0,22.0,Forward,Active,Spurs,SAS,San Antonio,2022.0,2022.0,Y,Y,2022,1,20,N,6.333
+59,1631128,Christian,Braun,2001-04-17T00:00:00,Kansas,USA,Kansas/USA,6-6,220.0,0,0.0,Guard,Active,Nuggets,DEN,Denver,2022.0,2022.0,Y,Y,2022,1,21,N,6.5
+60,1628969,Mikal,Bridges,1996-08-30T00:00:00,Villanova,USA,Villanova/USA,6-6,209.0,4,1.0,Forward,Active,Nets,BKN,Brooklyn,2018.0,2022.0,Y,Y,2018,1,10,N,6.5
+61,1629052,Oshae,Brissett,1998-06-20T00:00:00,Syracuse,Canada,Syracuse/Canada,6-7,210.0,3,12.0,Forward-Guard,Active,Pacers,IND,Indiana,2019.0,2022.0,Y,Y,Undrafted,Undrafted,Undrafted,N,6.583
+62,1627763,Malcolm,Brogdon,1992-12-11T00:00:00,Virginia,USA,Virginia/USA,6-4,229.0,6,13.0,Guard,Active,Celtics,BOS,Boston,2016.0,2022.0,Y,Y,2016,2,36,N,6.333
+63,1628415,Dillon,Brooks,1996-01-22T00:00:00,Oregon,Canada,Oregon/Canada,6-6,225.0,5,24.0,Guard-Forward,Active,Grizzlies,MEM,Memphis,2017.0,2022.0,Y,Y,2017,2,45,N,6.5
+64,1628971,Bruce,Brown,1996-08-15T00:00:00,Miami,USA,Miami/USA,6-4,202.0,4,11.0,Guard-Forward,Active,Nuggets,DEN,Denver,2018.0,2022.0,Y,Y,2018,2,42,N,6.333
+65,1627759,Jaylen,Brown,1996-10-24T00:00:00,California,USA,California/USA,6-6,223.0,6,7.0,Guard-Forward,Active,Celtics,BOS,Boston,2016.0,2022.0,Y,Y,2016,1,3,N,6.5
+66,1631112,Kendall,Brown,2003-05-11T00:00:00,Baylor,USA,Baylor/USA,6-7,205.0,0,10.0,Guard,Active,Pacers,IND,Indiana,2022.0,2022.0,Y,Y,2022,2,48,N,6.583
+67,1629650,Moses,Brown,1999-10-13T00:00:00,UCLA,USA,UCLA/USA,7-2,245.0,3,,Center,Inactive,,,,2019.0,2022.0,Y,Y,Undrafted,Undrafted,Undrafted,N,7.167
+68,1630535,Greg,Brown III,2001-09-01T00:00:00,Texas,USA,Texas/USA,6-7,206.0,1,,Forward,Inactive,,,,2021.0,2022.0,Y,Y,2021,2,43,N,6.583
+69,1629718,Charlie,Brown Jr.,1997-02-02T00:00:00,St. Joseph's (PA),USA,St. Joseph's (PA)/USA,6-6,199.0,4,16.0,Guard,Inactive,76ers,PHI,Philadelphia,2019.0,2021.0,Y,Y,Undrafted,Undrafted,Undrafted,N,6.5
+70,1628972,Troy,Brown Jr.,1999-07-28T00:00:00,Oregon,USA,Oregon/USA,6-7,215.0,4,7.0,Guard-Forward,Active,Lakers,LAL,Los Angeles,2018.0,2022.0,Y,Y,2018,1,15,N,6.583
+71,1628973,Jalen,Brunson,1996-08-31T00:00:00,Villanova,USA,Villanova/USA,6-2,190.0,4,11.0,Guard,Active,Knicks,NYK,New York,2018.0,2022.0,Y,Y,2018,2,33,N,6.167
+72,1628418,Thomas,Bryant,1997-07-31T00:00:00,Indiana,USA,Indiana/USA,6-10,248.0,5,13.0,Center-Forward,Active,Nuggets,DEN,Denver,2017.0,2022.0,Y,Y,2017,2,42,N,6.833
+73,203493,Reggie,Bullock,1991-03-16T00:00:00,North Carolina,USA,North Carolina/USA,6-6,205.0,9,25.0,Guard-Forward,Active,Mavericks,DAL,Dallas,2013.0,2022.0,Y,Y,2013,1,25,N,6.5
+74,203504,Trey,Burke,1992-11-12T00:00:00,Michigan,USA,Michigan/USA,6-0,185.0,10,3.0,Guard,Inactive,Mavericks,DAL,Dallas,2013.0,2021.0,Y,Y,2013,1,9,N,6.0
+75,202692,Alec,Burks,1991-07-20T00:00:00,Colorado,USA,Colorado/USA,6-6,214.0,11,5.0,Guard,Active,Pistons,DET,Detroit,2011.0,2022.0,Y,Y,2011,1,12,N,6.5
+76,1630215,Jared,Butler,2000-08-25T00:00:00,Baylor,USA,Baylor/USA,6-3,193.0,1,14.0,Guard,Active,Thunder,OKC,Oklahoma City,2021.0,2022.0,Y,Y,2021,2,40,N,6.25
+77,202710,Jimmy,Butler,1989-09-14T00:00:00,Marquette,USA,Marquette/USA,6-7,230.0,11,22.0,Forward,Active,Heat,MIA,Miami,2011.0,2022.0,Y,Y,2011,1,30,N,6.583
+78,1631288,Jamal,Cain,1999-03-20T00:00:00,Oakland,USA,Oakland/USA,6-6,191.0,0,8.0,Forward,Active,Heat,MIA,Miami,2022.0,2022.0,Y,Y,Undrafted,Undrafted,Undrafted,N,6.5
+79,203484,Kentavious,Caldwell-Pope,1993-02-18T00:00:00,Georgia,USA,Georgia/USA,6-5,204.0,9,5.0,Guard,Active,Nuggets,DEN,Denver,2013.0,2022.0,Y,Y,2013,1,8,N,6.417
+80,1628427,Vlatko,Cancar,1997-04-10T00:00:00,San Pablo Burgos,Slovenia,San Pablo Burgos/Slovenia,6-8,236.0,3,31.0,Forward,Active,Nuggets,DEN,Denver,2019.0,2022.0,Y,Y,2017,2,49,N,6.667
+81,1629962,Devin,Cannady,1996-05-21T00:00:00,Princeton,USA,Princeton/USA,6-2,183.0,3,30.0,Guard,Inactive,Magic,ORL,Orlando,2020.0,2021.0,Y,Y,2019,,,N,6.167
+82,203991,Clint,Capela,1994-05-18T00:00:00,Elan Chalon,Switzerland,Elan Chalon/Switzerland,6-10,256.0,8,15.0,Center,Active,Hawks,ATL,Atlanta,2014.0,2022.0,Y,Y,2014,1,25,N,6.833
+83,1630176,Vernon,Carey Jr.,2001-02-25T00:00:00,Duke,USA,Duke/USA,6-10,270.0,2,,Center,Inactive,,,,2020.0,2022.0,Y,Y,2020,2,32,N,6.833
+84,1628975,Jevon,Carter,1995-09-14T00:00:00,West Virginia,USA,West Virginia/USA,6-1,200.0,4,5.0,Guard,Active,Bucks,MIL,Milwaukee,2018.0,2022.0,Y,Y,2018,2,32,N,6.083
+85,1628976,Wendell,Carter Jr.,1999-04-16T00:00:00,Duke,USA,Duke/USA,6-10,270.0,4,34.0,Center-Forward,Active,Magic,ORL,Orlando,2018.0,2022.0,Y,Y,2018,1,7,N,6.833
+86,1627936,Alex,Caruso,1994-02-28T00:00:00,Texas A&M,USA,Texas A&M/USA,6-5,186.0,5,6.0,Guard,Active,Bulls,CHI,Chicago,2017.0,2022.0,Y,Y,Undrafted,Undrafted,Undrafted,N,6.417
+87,1626161,Willie,Cauley-Stein,1993-08-18T00:00:00,Kentucky,USA,Kentucky/USA,7-0,240.0,8,,Center,Inactive,,,,2015.0,2021.0,Y,Y,2015,1,6,N,7.0
+88,1630577,Julian,Champagnie,2001-06-29T00:00:00,St. John's,USA,St. John's/USA,6-7,217.0,0,30.0,Forward,Active,Spurs,SAS,San Antonio,2022.0,2022.0,Y,Y,Undrafted,Undrafted,Undrafted,N,6.583
+89,1630551,Justin,Champagnie,2001-06-29T00:00:00,Pittsburgh,USA,Pittsburgh/USA,6-6,206.0,1,,Guard-Forward,Inactive,,,,2021.0,2022.0,Y,Y,Undrafted,Undrafted,Undrafted,N,6.5
+90,1631113,Kennedy,Chandler,2002-09-16T00:00:00,Tennessee,USA,Tennessee/USA,5-11,170.0,0,1.0,Guard,Active,Grizzlies,MEM,Memphis,2022.0,2022.0,Y,Y,2022,2,38,N,5.917
+91,1629597,Zylan,Cheatham,1995-11-17T00:00:00,Arizona State,USA,Arizona State/USA,6-5,220.0,3,,Forward,Inactive,,,,2019.0,2021.0,Y,Y,Undrafted,Undrafted,Undrafted,N,6.417
+92,1629185,Chris,Chiozza,1995-11-21T00:00:00,Florida,USA,Florida/USA,5-11,175.0,5,2.0,Guard,Inactive,Warriors,GSW,Golden State,2018.0,2021.0,Y,Y,Undrafted,Undrafted,Undrafted,N,5.917
+93,1627737,Marquese,Chriss,1997-07-02T00:00:00,Washington,USA,Washington/USA,6-9,240.0,7,35.0,Forward,Inactive,Mavericks,DAL,Dallas,2016.0,2021.0,Y,Y,2016,1,8,N,6.75
+94,1631108,Max,Christie,2003-02-10T00:00:00,Michigan State,USA,Michigan State/USA,6-5,190.0,0,10.0,Guard,Active,Lakers,LAL,Los Angeles,2022.0,2022.0,Y,Y,2022,2,35,N,6.417
+95,1630528,Josh,Christopher,2001-12-08T00:00:00,Arizona State,USA,Arizona State/USA,6-4,215.0,1,9.0,Guard,Active,Rockets,HOU,Houston,2021.0,2022.0,Y,Y,2021,1,24,N,6.333
+96,1629634,Brandon,Clarke,1996-09-19T00:00:00,Gonzaga,Canada,Gonzaga/Canada,6-8,215.0,3,15.0,Forward,Active,Grizzlies,MEM,Memphis,2019.0,2022.0,Y,Y,2019,1,21,N,6.667
+97,203903,Jordan,Clarkson,1992-06-07T00:00:00,Missouri,USA,Missouri/USA,6-5,194.0,8,0.0,Guard,Active,Jazz,UTA,Utah,2014.0,2022.0,Y,Y,2014,2,46,N,6.417
+98,1629651,Nic,Claxton,1999-04-17T00:00:00,Georgia,USA,Georgia/USA,6-11,215.0,3,33.0,Center,Active,Nets,BKN,Brooklyn,2019.0,2022.0,Y,Y,2019,2,31,N,6.917
+99,1629599,Amir,Coffey,1997-06-17T00:00:00,Minnesota,USA,Minnesota/USA,6-7,210.0,3,7.0,Guard-Forward,Active,Clippers,LAC,LA,2019.0,2022.0,Y,Y,Undrafted,Undrafted,Undrafted,N,6.583
+100,1628381,John,Collins,1997-09-23T00:00:00,Wake Forest,USA,Wake Forest/USA,6-9,226.0,5,20.0,Forward-Center,Active,Hawks,ATL,Atlanta,2017.0,2022.0,Y,Y,2017,1,19,N,6.75
+101,1628380,Zach,Collins,1997-11-19T00:00:00,Gonzaga,USA,Gonzaga/USA,6-11,250.0,4,23.0,Forward-Center,Active,Spurs,SAS,San Antonio,2017.0,2022.0,Y,Y,2017,1,10,N,6.917
+102,201144,Mike,Conley,1987-10-11T00:00:00,Ohio State,USA,Ohio State/USA,6-1,175.0,15,10.0,Guard,Active,Timberwolves,MIN,Minnesota,2007.0,2022.0,Y,Y,2007,1,4,N,6.083
+103,1626192,Pat,Connaughton,1993-01-06T00:00:00,Notre Dame,USA,Notre Dame/USA,6-5,209.0,7,24.0,Guard,Active,Bucks,MIL,Milwaukee,2015.0,2022.0,Y,Y,2015,2,41,N,6.417
+104,1626188,Quinn,Cook,1993-03-23T00:00:00,Duke,USA,Duke/USA,6-1,180.0,6,,Guard,Inactive,,,,2016.0,2020.0,Y,Y,Undrafted,Undrafted,Undrafted,N,6.083
+105,1630536,Sharife,Cooper,2001-06-11T00:00:00,Auburn,USA,Auburn/USA,6-1,176.0,2,2.0,Guard,Inactive,Hawks,ATL,Atlanta,2021.0,2021.0,Y,Y,2021,2,48,N,6.083
+106,203496,Robert,Covington,1990-12-14T00:00:00,Tennessee State,USA,Tennessee State/USA,6-7,209.0,9,23.0,Forward,Active,Clippers,LAC,LA,2013.0,2022.0,Y,Y,Undrafted,Undrafted,Undrafted,N,6.583
+107,1628470,Torrey,Craig,1990-12-19T00:00:00,South Carolina Upstate,USA,South Carolina Upstate/USA,6-7,221.0,5,0.0,Forward,Active,Suns,PHX,Phoenix,2017.0,2022.0,Y,Y,Undrafted,Undrafted,Undrafted,N,6.583
+108,203109,Jae,Crowder,1990-07-06T00:00:00,Marquette,USA,Marquette/USA,6-6,235.0,10,99.0,Forward,Active,Bucks,MIL,Milwaukee,2012.0,2022.0,Y,Y,2012,2,34,N,6.5
+109,1629633,Jarrett,Culver,1999-02-20T00:00:00,Texas Tech,USA,Texas Tech/USA,6-6,195.0,3,,Guard-Forward,Inactive,,,,2019.0,2022.0,Y,Y,2019,1,6,N,6.5
+110,1630595,Cade,Cunningham,2001-09-25T00:00:00,Oklahoma State,USA,Oklahoma State/USA,6-7,220.0,1,2.0,Guard,Active,Pistons,DET,Detroit,2021.0,2022.0,Y,Y,2021,1,1,N,6.583
+111,203552,Seth,Curry,1990-08-23T00:00:00,Duke,USA,Duke/USA,6-1,185.0,8,30.0,Guard,Active,Nets,BKN,Brooklyn,2013.0,2022.0,Y,Y,Undrafted,Undrafted,Undrafted,N,6.083
+112,201939,Stephen,Curry,1988-03-14T00:00:00,Davidson,USA,Davidson/USA,6-2,185.0,13,30.0,Guard,Active,Warriors,GSW,Golden State,2009.0,2022.0,Y,Y,2009,1,7,Y,6.167
+113,1630700,Dyson,Daniels,2003-03-17T00:00:00,NBA G League Ignite,Australia,NBA G League Ignite/Australia,6-7,199.0,0,11.0,Guard,Active,Pelicans,NOP,New Orleans,2021.0,2022.0,Y,Y,2022,1,8,N,6.583
+114,1630268,Nate,Darling,1998-08-30T00:00:00,Delaware,Canada,Delaware/Canada,6-6,200.0,2,30.0,Guard,Inactive,Hornets,CHA,Charlotte,2020.0,2020.0,Y,Y,Undrafted,Undrafted,Undrafted,N,6.5
+115,203076,Anthony,Davis,1993-03-11T00:00:00,Kentucky,USA,Kentucky/USA,6-10,253.0,10,3.0,Forward-Center,Active,Lakers,LAL,Los Angeles,2012.0,2022.0,Y,Y,2012,1,1,Y,6.833
+116,1631098,Johnny,Davis,2002-02-27T00:00:00,Wisconsin,USA,Wisconsin/USA,6-4,195.0,0,1.0,Guard,Active,Wizards,WAS,Washington,2022.0,2022.0,Y,Y,2022,1,10,N,6.333
+117,1629056,Terence,Davis,1997-05-16T00:00:00,Mississippi,USA,Mississippi/USA,6-4,201.0,3,3.0,Guard,Active,Kings,SAC,Sacramento,2019.0,2022.0,Y,Y,Undrafted,Undrafted,Undrafted,N,6.333
+118,1631120,JD,Davison,2002-10-03T00:00:00,Alabama,USA,Alabama/USA,6-1,195.0,0,20.0,Guard,Active,Celtics,BOS,Boston,2022.0,2022.0,Y,Y,2022,2,53,N,6.083
+119,1630620,Darius,Days,1999-10-20T00:00:00,Louisiana State,USA,Louisiana State/USA,6-7,245.0,0,5.0,Forward,Active,Rockets,HOU,Houston,2022.0,2022.0,Y,Y,Undrafted,Undrafted,Undrafted,N,6.583
+120,201942,DeMar,DeRozan,1989-08-07T00:00:00,Southern California,USA,Southern California/USA,6-6,220.0,13,11.0,Guard-Forward,Active,Bulls,CHI,Chicago,2009.0,2022.0,Y,Y,2009,1,9,N,6.5
+121,203473,Dewayne,Dedmon,1989-08-12T00:00:00,Southern California,USA,Southern California/USA,6-10,245.0,9,14.0,Center,Active,76ers,PHI,Philadelphia,2013.0,2022.0,Y,Y,Undrafted,Undrafted,Undrafted,N,6.833
+122,203521,Matthew,Dellavedova,1990-09-08T00:00:00,St. Mary's,Australia,St. Mary's/Australia,6-3,200.0,8,8.0,Guard,Active,Kings,SAC,Sacramento,2013.0,2022.0,Y,Y,Undrafted,Undrafted,Undrafted,N,6.25
+123,1628978,Donte,DiVincenzo,1997-01-31T00:00:00,Villanova,USA,Villanova/USA,6-4,203.0,4,0.0,Guard,Active,Warriors,GSW,Golden State,2018.0,2022.0,Y,Y,2018,1,17,N,6.333
+124,1631217,Moussa,Diabate,2002-01-21T00:00:00,Michigan,France,Michigan/France,6-10,210.0,0,25.0,Forward,Active,Clippers,LAC,LA,2022.0,2022.0,Y,Y,2022,2,43,N,6.833
+125,1629603,Mamadi,Diakite,1997-01-21T00:00:00,Virginia,Guinea,Virginia/Guinea,6-9,228.0,2,21.0,Forward,Active,Cavaliers,CLE,Cleveland,2020.0,2022.0,Y,Y,Undrafted,Undrafted,Undrafted,N,6.75
+126,1628977,Hamidou,Diallo,1998-07-31T00:00:00,Kentucky,USA,Kentucky/USA,6-5,202.0,4,6.0,Guard,Active,Pistons,DET,Detroit,2018.0,2022.0,Y,Y,2018,2,45,N,6.417
+127,203476,Gorgui,Dieng,1990-01-18T00:00:00,Louisville,Senegal,Louisville/Senegal,6-10,248.0,9,41.0,Center,Active,Spurs,SAS,San Antonio,2013.0,2022.0,Y,Y,2013,1,21,N,6.833
+128,1631172,Ousmane,Dieng,2003-05-21T00:00:00,New Zealand Breakers,France,New Zealand Breakers/France,6-9,185.0,0,13.0,Forward,Active,Thunder,OKC,Oklahoma City,2022.0,2022.0,Y,Y,2022,1,11,N,6.75
+129,203915,Spencer,Dinwiddie,1993-04-06T00:00:00,Colorado,USA,Colorado/USA,6-5,215.0,8,26.0,Guard,Active,Nets,BKN,Brooklyn,2014.0,2022.0,Y,Y,2014,2,38,N,6.417
+130,1629029,Luka,Doncic,1999-02-28T00:00:00,Real Madrid,Slovenia,Real Madrid/Slovenia,6-7,230.0,4,77.0,Forward-Guard,Active,Mavericks,DAL,Dallas,2018.0,2022.0,Y,Y,2018,1,3,N,6.583
+131,1628416,Tyler,Dorsey,1996-02-18T00:00:00,Oregon,USA,Oregon/USA,6-4,180.0,2,,Guard,Inactive,,,,2017.0,2022.0,Y,Y,2017,2,41,N,6.333
+132,1629652,Luguentz,Dort,1999-04-19T00:00:00,Arizona State,Canada,Arizona State/Canada,6-4,220.0,3,5.0,Guard,Active,Thunder,OKC,Oklahoma City,2019.0,2022.0,Y,Y,Undrafted,Undrafted,Undrafted,N,6.333
+133,1630245,Ayo,Dosunmu,2000-01-17T00:00:00,Illinois,USA,Illinois/USA,6-5,200.0,1,12.0,Guard,Active,Bulls,CHI,Chicago,2021.0,2022.0,Y,Y,2021,2,38,N,6.417
+134,1629653,Devon,Dotson,1999-08-02T00:00:00,Kansas,USA,Kansas/USA,6-1,185.0,2,,Guard,Inactive,,,,2020.0,2022.0,Y,Y,Undrafted,Undrafted,Undrafted,N,6.083
+135,1630288,Jeff,Dowtin Jr.,1997-05-10T00:00:00,Rhode Island,USA,Rhode Island/USA,6-3,177.0,1,20.0,Guard,Active,Raptors,TOR,Toronto,2021.0,2022.0,Y,Y,Undrafted,Undrafted,Undrafted,N,6.25
+136,1628408,PJ,Dozier,1996-10-25T00:00:00,South Carolina,USA,South Carolina/USA,6-6,205.0,5,35.0,Guard-Forward,Active,Kings,SAC,Sacramento,2017.0,2022.0,Y,Y,Undrafted,Undrafted,Undrafted,N,6.5
+137,201609,Goran,Dragic,1986-05-06T00:00:00,Union Olimpija,Slovenia,Union Olimpija/Slovenia,6-4,190.0,14,7.0,Guard,Active,Bucks,MIL,Milwaukee,2008.0,2022.0,Y,Y,2008,2,45,N,6.333
+138,203083,Andre,Drummond,1993-08-10T00:00:00,Connecticut,USA,Connecticut/USA,6-11,279.0,10,3.0,Center,Active,Bulls,CHI,Chicago,2012.0,2022.0,Y,Y,2012,1,9,N,6.917
+139,1630537,Chris,Duarte,1997-06-13T00:00:00,Oregon,Dominican Republic,Oregon/Dominican Republic,6-5,190.0,1,3.0,Guard,Active,Pacers,IND,Indiana,2021.0,2022.0,Y,Y,2021,1,13,N,6.417
+140,1630561,David,Duke Jr.,1999-10-13T00:00:00,Providence,USA,Providence/USA,6-4,204.0,1,6.0,Guard,Active,Nets,BKN,Brooklyn,2021.0,2022.0,Y,Y,Undrafted,Undrafted,Undrafted,N,6.333
+141,201142,Kevin,Durant,1988-09-29T00:00:00,Texas,USA,Texas/USA,6-10,240.0,14,35.0,Forward,Active,Suns,PHX,Phoenix,2007.0,2022.0,Y,Y,2007,1,2,Y,6.833
+142,1631105,Jalen,Duren,2003-11-18T00:00:00,Memphis,USA,Memphis/USA,6-11,250.0,0,0.0,Center,Active,Pistons,DET,Detroit,2022.0,2022.0,Y,Y,2022,1,13,N,6.917
+143,1631106,Tari,Eason,2001-05-10T00:00:00,Louisiana State,USA,Louisiana State/USA,6-8,215.0,0,17.0,Forward,Active,Rockets,HOU,Houston,2022.0,2022.0,Y,Y,2022,1,17,N,6.667
+144,1630162,Anthony,Edwards,2001-08-05T00:00:00,Georgia,USA,Georgia/USA,6-4,225.0,2,1.0,Guard,Active,Timberwolves,MIN,Minnesota,2020.0,2022.0,Y,Y,2020,1,1,N,6.333
+145,1630556,Kessler,Edwards,2000-08-09T00:00:00,Pepperdine,USA,Pepperdine/USA,6-7,203.0,1,14.0,Forward,Active,Kings,SAC,Sacramento,2021.0,2022.0,Y,Y,2021,2,44,N,6.583
+146,1629604,CJ,Elleby,2000-06-16T00:00:00,Washington State,USA,Washington State/USA,6-6,200.0,3,16.0,Forward-Guard,Inactive,Trail Blazers,POR,Portland,2020.0,2021.0,Y,Y,2020,2,46,N,6.5
+147,1631165,Keon,Ellis,2000-01-08T00:00:00,Alabama,USA,Alabama/USA,6-3,175.0,0,23.0,Guard,Active,Kings,SAC,Sacramento,2022.0,2022.0,Y,Y,Undrafted,Undrafted,Undrafted,N,6.25
+148,203954,Joel,Embiid,1994-03-16T00:00:00,Kansas,Cameroon,Kansas/Cameroon,7-0,280.0,6,21.0,Center-Forward,Active,76ers,PHI,Philadelphia,2014.0,2022.0,Y,Y,2014,1,3,N,7.0
+149,1629234,Drew,Eubanks,1997-02-01T00:00:00,Oregon State,USA,Oregon State/USA,6-10,245.0,4,24.0,Forward-Center,Active,Trail Blazers,POR,Portland,2018.0,2022.0,Y,Y,Undrafted,Undrafted,Undrafted,N,6.833
+150,202324,Derrick,Favors,1991-07-15T00:00:00,Georgia Tech,USA,Georgia Tech/USA,6-9,265.0,13,15.0,Forward,Inactive,Thunder,OKC,Oklahoma City,2010.0,2021.0,Y,Y,2010,1,3,N,6.75
+151,1628981,Bruno,Fernando,1998-08-15T00:00:00,Maryland,Angola,Maryland/Angola,6-10,240.0,3,20.0,Forward-Center,Active,Hawks,ATL,Atlanta,2019.0,2022.0,Y,Y,2019,2,34,N,6.833
+152,1627827,Dorian,Finney-Smith,1993-05-04T00:00:00,Florida,USA,Florida/USA,6-7,220.0,6,28.0,Forward,Active,Nets,BKN,Brooklyn,2016.0,2022.0,Y,Y,Undrafted,Undrafted,Undrafted,N,6.583
+153,1630238,Malik,Fitts,1997-07-04T00:00:00,St. Mary's College,USA,St. Mary's College/USA,6-5,230.0,3,8.0,Forward,Inactive,Celtics,BOS,Boston,2020.0,2021.0,Y,Y,Undrafted,Undrafted,Undrafted,N,6.417
+154,1630201,Malachi,Flynn,1998-05-09T00:00:00,San Diego State,USA,San Diego State/USA,6-1,175.0,2,22.0,Guard,Active,Raptors,TOR,Toronto,2020.0,2022.0,Y,Y,2020,1,29,N,6.083
+155,1631323,Simone,Fontecchio,1995-12-09T00:00:00,Baskonia,Italy,Baskonia/Italy,6-7,209.0,0,16.0,Forward,Active,Jazz,UTA,Utah,2022.0,2022.0,Y,Y,Undrafted,Undrafted,Undrafted,N,6.583
+156,1627854,Bryn,Forbes,1993-07-23T00:00:00,Michigan State,USA,Michigan State/USA,6-2,205.0,6,,Guard,Inactive,,,,2016.0,2022.0,Y,Y,Undrafted,Undrafted,Undrafted,N,6.167
+157,1630235,Trent,Forrest,1998-06-12T00:00:00,Florida State,USA,Florida State/USA,6-4,210.0,2,2.0,Guard,Active,Hawks,ATL,Atlanta,2020.0,2022.0,Y,Y,Undrafted,Undrafted,Undrafted,N,6.333
+158,1630701,Michael,Foster Jr.,2003-01-16T00:00:00,NBA G League Ignite,USA,NBA G League Ignite/USA,6-8,250.0,0,,Forward,Inactive,,,,2022.0,2022.0,Y,Y,Undrafted,Undrafted,Undrafted,N,6.667
+159,203095,Evan,Fournier,1992-10-29T00:00:00,Poitiers Basket 86,France,Poitiers Basket 86/France,6-6,205.0,10,13.0,Guard-Forward,Active,Knicks,NYK,New York,2012.0,2022.0,Y,Y,2012,1,20,N,6.5
+160,1628368,De'Aaron,Fox,1997-12-20T00:00:00,Kentucky,USA,Kentucky/USA,6-3,185.0,5,5.0,Guard,Active,Kings,SAC,Sacramento,2017.0,2022.0,Y,Y,2017,1,5,N,6.25
+161,1628365,Markelle,Fultz,1998-05-29T00:00:00,Washington,USA,Washington/USA,6-4,209.0,5,20.0,Guard,Active,Magic,ORL,Orlando,2017.0,2022.0,Y,Y,2017,1,1,N,6.333
+162,1629117,Wenyen,Gabriel,1997-03-26T00:00:00,Kentucky,South Sudan,Kentucky/South Sudan,6-9,205.0,3,35.0,Forward,Active,Lakers,LAL,Los Angeles,2018.0,2022.0,Y,Y,Undrafted,Undrafted,Undrafted,N,6.75
+163,1629655,Daniel,Gafford,1998-10-01T00:00:00,Arkansas,USA,Arkansas/USA,6-10,234.0,3,21.0,Forward-Center,Active,Wizards,WAS,Washington,2019.0,2022.0,Y,Y,2019,2,38,N,6.833
+164,201568,Danilo,Gallinari,1988-08-08T00:00:00,Olimpia Milano,Italy,Olimpia Milano/Italy,6-10,236.0,13,8.0,Forward,Active,Celtics,BOS,Boston,2008.0,2022.0,Y,Y,2008,1,6,N,6.833
+165,204038,Langston,Galloway,1991-12-09T00:00:00,St. Joseph's (PA),USA,St. Joseph's (PA)/USA,6-1,200.0,9,,Guard,Inactive,,,,2014.0,2021.0,Y,Y,Undrafted,Undrafted,Undrafted,N,6.083
+166,1629636,Darius,Garland,2000-01-26T00:00:00,Vanderbilt,USA,Vanderbilt/USA,6-1,192.0,3,10.0,Guard,Active,Cavaliers,CLE,Cleveland,2019.0,2022.0,Y,Y,2019,1,5,N,6.083
+167,1630585,Marcus,Garrett,1998-11-09T00:00:00,Kansas,USA,Kansas/USA,6-5,205.0,2,,Guard,Inactive,,,,2021.0,2021.0,Y,Y,Undrafted,Undrafted,Undrafted,N,6.417
+168,1630586,Usman,Garuba,2002-03-09T00:00:00,Real Madrid,Spain,Real Madrid/Spain,6-8,229.0,1,16.0,Forward,Active,Rockets,HOU,Houston,2021.0,2022.0,Y,Y,2021,1,23,N,6.667
+169,1630568,Luka,Garza,1998-12-27T00:00:00,Iowa,USA,Iowa/USA,6-10,243.0,1,55.0,Center,Active,Timberwolves,MIN,Minnesota,2021.0,2022.0,Y,Y,2021,2,52,N,6.833
+170,200752,Rudy,Gay,1986-08-17T00:00:00,Connecticut,USA,Connecticut/USA,6-8,250.0,16,22.0,Forward-Guard,Active,Jazz,UTA,Utah,2006.0,2022.0,Y,Y,2006,1,8,N,6.667
+171,202331,Paul,George,1990-05-02T00:00:00,Fresno State,USA,Fresno State/USA,6-8,220.0,12,13.0,Forward,Active,Clippers,LAC,LA,2010.0,2022.0,Y,Y,2010,1,10,N,6.667
+172,201959,Taj,Gibson,1985-06-24T00:00:00,Southern California,USA,Southern California/USA,6-9,232.0,13,67.0,Forward,Active,Wizards,WAS,Washington,2009.0,2022.0,Y,Y,2009,1,26,N,6.75
+173,1630581,Josh,Giddey,2002-10-10T00:00:00,NBA Global Academy,Australia,NBA Global Academy/Australia,6-8,216.0,1,3.0,Guard,Active,Thunder,OKC,Oklahoma City,2021.0,2022.0,Y,Y,2021,1,6,N,6.667
+174,1628983,Shai,Gilgeous-Alexander,1998-07-12T00:00:00,Kentucky,Canada,Kentucky/Canada,6-6,195.0,4,2.0,Guard,Active,Thunder,OKC,Oklahoma City,2018.0,2022.0,Y,Y,2018,1,11,N,6.5
+175,1630264,Anthony,Gill,1992-10-17T00:00:00,Virginia,USA,Virginia/USA,6-8,230.0,2,16.0,Forward,Active,Wizards,WAS,Washington,2020.0,2022.0,Y,Y,Undrafted,Undrafted,Undrafted,N,6.667
+176,1631221,Collin,Gillespie,1999-06-25T00:00:00,Villanova,USA,Villanova/USA,6-1,195.0,0,21.0,Guard,Active,Nuggets,DEN,Denver,2022.0,2022.0,N,N,Undrafted,Undrafted,Undrafted,N,6.083
+177,203497,Rudy,Gobert,1992-06-26T00:00:00,Cholet,France,Cholet/France,7-1,258.0,9,27.0,Center,Active,Timberwolves,MIN,Minnesota,2013.0,2022.0,Y,Y,2013,1,27,N,7.083
+178,1630692,Jordan,Goodwin,1998-10-23T00:00:00,St. Louis,USA,St. Louis/USA,6-3,200.0,1,7.0,Guard,Active,Wizards,WAS,Washington,2021.0,2022.0,Y,Y,Undrafted,Undrafted,Undrafted,N,6.25
+179,203932,Aaron,Gordon,1995-09-16T00:00:00,Arizona,USA,Arizona/USA,6-8,235.0,8,50.0,Forward,Active,Nuggets,DEN,Denver,2014.0,2022.0,Y,Y,2014,1,4,N,6.667
+180,201569,Eric,Gordon,1988-12-25T00:00:00,Indiana,USA,Indiana/USA,6-3,215.0,14,10.0,Guard,Active,Clippers,LAC,LA,2008.0,2022.0,Y,Y,2008,1,7,N,6.25
+181,1628984,Devonte',Graham,1995-02-22T00:00:00,Kansas,USA,Kansas/USA,6-1,195.0,4,4.0,Guard,Active,Spurs,SAS,San Antonio,2018.0,2022.0,Y,Y,2018,2,34,N,6.083
+182,203924,Jerami,Grant,1994-03-12T00:00:00,Syracuse,USA,Syracuse/USA,6-8,210.0,8,9.0,Forward,Active,Trail Blazers,POR,Portland,2014.0,2022.0,Y,Y,2014,2,39,N,6.667
+183,1631260,AJ,Green,1999-09-27T00:00:00,Northern Iowa,USA,Northern Iowa/USA,6-5,190.0,0,20.0,Guard,Active,Bucks,MIL,Milwaukee,2022.0,2022.0,Y,Y,Undrafted,Undrafted,Undrafted,N,6.417
+184,201980,Danny,Green,1987-06-22T00:00:00,North Carolina,USA,North Carolina/USA,6-6,215.0,13,14.0,Guard,Active,Cavaliers,CLE,Cleveland,2009.0,2022.0,Y,Y,2009,2,46,N,6.5
+185,203110,Draymond,Green,1990-03-04T00:00:00,Michigan State,USA,Michigan State/USA,6-6,230.0,10,23.0,Forward,Active,Warriors,GSW,Golden State,2012.0,2022.0,Y,Y,2012,2,35,N,6.5
+186,203210,JaMychal,Green,1990-06-21T00:00:00,Alabama,USA,Alabama/USA,6-9,227.0,8,1.0,Forward-Center,Active,Warriors,GSW,Golden State,2014.0,2022.0,Y,Y,Undrafted,Undrafted,Undrafted,N,6.75
+187,1630224,Jalen,Green,2002-02-09T00:00:00,NBA G League Ignite,USA,NBA G League Ignite/USA,6-4,186.0,1,4.0,Guard,Active,Rockets,HOU,Houston,2021.0,2022.0,Y,Y,2021,1,2,N,6.333
+188,1629750,Javonte,Green,1993-07-23T00:00:00,Radford,USA,Radford/USA,6-5,205.0,3,24.0,Guard,Active,Bulls,CHI,Chicago,2019.0,2022.0,Y,Y,Undrafted,Undrafted,Undrafted,N,6.417
+189,201145,Jeff,Green,1986-08-28T00:00:00,Georgetown,USA,Georgetown/USA,6-8,235.0,14,32.0,Forward,Active,Nuggets,DEN,Denver,2007.0,2022.0,Y,Y,2007,1,5,N,6.667
+190,1630182,Josh,Green,2000-11-16T00:00:00,Arizona,Australia,Arizona/Australia,6-7,200.0,2,8.0,Guard,Active,Mavericks,DAL,Dallas,2020.0,2022.0,Y,Y,2020,1,18,N,6.583
+191,1631100,AJ,Griffin,2003-08-25T00:00:00,Duke,USA,Duke/USA,6-6,220.0,0,14.0,Forward,Active,Hawks,ATL,Atlanta,2022.0,2022.0,Y,Y,2022,1,16,N,6.5
+192,201933,Blake,Griffin,1989-03-16T00:00:00,Oklahoma,USA,Oklahoma/USA,6-9,250.0,12,91.0,Forward,Active,Celtics,BOS,Boston,2009.0,2022.0,Y,Y,2009,1,1,N,6.75
+193,1629656,Quentin,Grimes,2000-05-08T00:00:00,Houston,USA,Houston/USA,6-5,210.0,1,6.0,Guard,Active,Knicks,NYK,New York,2021.0,2022.0,Y,Y,2021,1,25,N,6.417
+194,1629060,Rui,Hachimura,1998-02-08T00:00:00,Gonzaga,Japan,Gonzaga/Japan,6-8,230.0,3,28.0,Forward,Active,Lakers,LAL,Los Angeles,2019.0,2022.0,Y,Y,2019,1,9,N,6.667
+195,1630169,Tyrese,Haliburton,2000-02-29T00:00:00,Iowa State,USA,Iowa State/USA,6-5,185.0,2,0.0,Guard,Active,Pacers,IND,Indiana,2020.0,2022.0,Y,Y,2020,1,12,N,6.417
+196,1631160,Jordan,Hall,2002-01-14T00:00:00,St. Joseph's (PA),USA,St. Joseph's (PA)/USA,6-7,215.0,0,,Guard,Inactive,,,,2022.0,2022.0,Y,Y,Undrafted,Undrafted,Undrafted,N,6.583
+197,1629788,Tyler,Hall,1997-03-25T00:00:00,Montana State,USA,Montana State/USA,6-5,209.0,2,,Guard,Inactive,,,,2021.0,2021.0,Y,Y,Undrafted,Undrafted,Undrafted,N,6.417
+198,1630181,R.J.,Hampton,2001-02-07T00:00:00,New Zealand Breakers,USA,New Zealand Breakers/USA,6-4,175.0,2,14.0,Guard,Active,Pistons,DET,Detroit,2020.0,2022.0,Y,Y,2020,1,24,N,6.333
+199,203501,Tim,Hardaway Jr.,1992-03-16T00:00:00,Michigan,USA,Michigan/USA,6-5,205.0,9,11.0,Guard-Forward,Active,Mavericks,DAL,Dallas,2013.0,2022.0,Y,Y,2013,1,24,N,6.417
+200,201935,James,Harden,1989-08-26T00:00:00,Arizona State,USA,Arizona State/USA,6-5,220.0,13,1.0,Guard,Active,76ers,PHI,Philadelphia,2009.0,2022.0,Y,Y,2009,1,3,Y,6.417
+201,1630702,Jaden,Hardy,2002-07-05T00:00:00,NBA G League Ignite,USA,NBA G League Ignite/USA,6-3,198.0,0,3.0,Guard,Active,Mavericks,DAL,Dallas,2021.0,2022.0,Y,Y,2022,2,37,N,6.25
+202,1631199,Ron,Harper Jr.,2000-04-12T00:00:00,Rutgers,USA,Rutgers/USA,6-5,245.0,0,8.0,Forward,Active,Raptors,TOR,Toronto,2022.0,2022.0,Y,Y,Undrafted,Undrafted,Undrafted,N,6.417
+203,1626149,Montrezl,Harrell,1994-01-26T00:00:00,Louisville,USA,Louisville/USA,6-7,240.0,7,5.0,Forward-Center,Active,76ers,PHI,Philadelphia,2015.0,2022.0,Y,Y,2015,2,32,N,6.583
+204,203914,Gary,Harris,1994-09-14T00:00:00,Michigan State,USA,Michigan State/USA,6-4,210.0,8,14.0,Guard,Active,Magic,ORL,Orlando,2014.0,2022.0,Y,Y,2014,1,19,N,6.333
+205,1630223,Jalen,Harris,1998-08-14T00:00:00,Nevada,USA,Nevada/USA,6-5,195.0,2,,Guard,Inactive,,,,2020.0,2020.0,Y,Y,2020,2,59,N,6.417
+206,203925,Joe,Harris,1991-09-06T00:00:00,Virginia,USA,Virginia/USA,6-6,220.0,8,12.0,Guard-Forward,Active,Nets,BKN,Brooklyn,2014.0,2022.0,Y,Y,2014,2,33,N,6.5
+207,1630284,Kevon,Harris,1997-06-24T00:00:00,Stephen F. Austin,USA,Stephen F. Austin/USA,6-6,216.0,0,7.0,Guard,Active,Magic,ORL,Orlando,2022.0,2022.0,Y,Y,Undrafted,Undrafted,Undrafted,N,6.5
+208,202699,Tobias,Harris,1992-07-15T00:00:00,Tennessee,USA,Tennessee/USA,6-7,226.0,11,12.0,Forward,Active,76ers,PHI,Philadelphia,2011.0,2022.0,Y,Y,2011,1,19,N,6.583
+209,1627885,Shaquille,Harrison,1993-10-06T00:00:00,Tulsa,USA,Tulsa/USA,6-4,195.0,6,,Guard,Inactive,,,,2017.0,2021.0,Y,Y,Undrafted,Undrafted,Undrafted,N,6.333
+210,1628404,Josh,Hart,1995-03-06T00:00:00,Villanova,USA,Villanova/USA,6-4,215.0,5,3.0,Guard,Active,Knicks,NYK,New York,2017.0,2022.0,Y,Y,2017,1,30,N,6.333
+211,1628392,Isaiah,Hartenstein,1998-05-05T00:00:00,Zalgiris,Germany,Zalgiris/Germany,7-0,250.0,4,55.0,Center-Forward,Active,Knicks,NYK,New York,2018.0,2022.0,Y,Y,2017,2,43,N,7.0
+212,2617,Udonis,Haslem,1980-06-09T00:00:00,Florida,USA,Florida/USA,6-7,235.0,19,40.0,Forward,Active,Heat,MIA,Miami,2003.0,2022.0,Y,Y,Undrafted,Undrafted,Undrafted,N,6.583
+213,1630573,Sam,Hauser,1997-12-08T00:00:00,Virginia,USA,Virginia/USA,6-7,217.0,1,30.0,Forward,Active,Celtics,BOS,Boston,2021.0,2022.0,Y,Y,Undrafted,Undrafted,Undrafted,N,6.583
+214,1629637,Jaxson,Hayes,2000-05-23T00:00:00,Texas,USA,Texas/USA,7-0,220.0,3,10.0,Center-Forward,Active,Pelicans,NOP,New Orleans,2019.0,2022.0,Y,Y,2019,1,8,N,7.0
+215,1630165,Killian,Hayes,2001-07-27T00:00:00,Ratiopharm Ulm,France,Ratiopharm Ulm/France,6-5,195.0,2,7.0,Guard,Active,Pistons,DET,Detroit,2020.0,2022.0,Y,Y,2020,1,7,N,6.417
+216,202330,Gordon,Hayward,1990-03-23T00:00:00,Butler,USA,Butler/USA,6-7,225.0,12,20.0,Forward,Active,Hornets,CHA,Charlotte,2010.0,2022.0,Y,Y,2010,1,9,N,6.583
+217,1627823,Juancho,Hernangomez,1995-09-28T00:00:00,Estudiantes,Spain,Estudiantes/Spain,6-9,214.0,6,,Forward,Inactive,,,,2016.0,2022.0,Y,Y,2016,1,15,N,6.75
+218,1626195,Willy,Hernangomez,1994-05-27T00:00:00,Cajasol Sevilla,Spain,Cajasol Sevilla/Spain,6-11,250.0,6,9.0,Center-Forward,Active,Pelicans,NOP,New Orleans,2016.0,2022.0,Y,Y,2015,2,35,N,6.917
+219,1629639,Tyler,Herro,2000-01-20T00:00:00,Kentucky,USA,Kentucky/USA,6-5,195.0,3,14.0,Guard,Active,Heat,MIA,Miami,2019.0,2022.0,Y,Y,2019,1,13,N,6.417
+220,1627741,Buddy,Hield,1992-12-17T00:00:00,Oklahoma,Bahamas,Oklahoma/Bahamas,6-4,220.0,6,24.0,Guard,Active,Pacers,IND,Indiana,2016.0,2022.0,Y,Y,2016,1,6,N,6.333
+221,1629312,Haywood,Highsmith,1996-12-09T00:00:00,Wheeling Jesuit,USA,Wheeling Jesuit/USA,6-5,220.0,2,24.0,Forward,Active,Heat,MIA,Miami,2018.0,2022.0,Y,Y,2018,,,N,6.417
+222,201588,George,Hill,1986-05-04T00:00:00,Indiana-Purdue Indianapolis,USA,Indiana-Purdue Indianapolis/USA,6-4,188.0,14,7.0,Guard,Active,Pacers,IND,Indiana,2008.0,2022.0,Y,Y,2008,1,26,N,6.333
+223,1630792,Malcolm,Hill,1995-10-26T00:00:00,Illinois,USA,Illinois/USA,6-6,220.0,1,,Forward,Inactive,,,,2021.0,2022.0,Y,Y,Undrafted,Undrafted,Undrafted,N,6.5
+224,1630207,Nate,Hinton,1999-06-08T00:00:00,Houston,USA,Houston/USA,6-5,210.0,3,14.0,Guard-Forward,Inactive,Pacers,IND,Indiana,2020.0,2021.0,Y,Y,Undrafted,Undrafted,Undrafted,N,6.417
+225,1628988,Aaron,Holiday,1996-09-30T00:00:00,UCLA,USA,UCLA/USA,6-0,185.0,4,3.0,Guard,Active,Hawks,ATL,Atlanta,2018.0,2022.0,Y,Y,2018,1,23,N,6.0
+226,201950,Jrue,Holiday,1990-06-12T00:00:00,UCLA,USA,UCLA/USA,6-5,205.0,13,21.0,Guard,Active,Bucks,MIL,Milwaukee,2009.0,2022.0,Y,Y,2009,1,17,N,6.417
+227,203200,Justin,Holiday,1989-04-05T00:00:00,Washington,USA,Washington/USA,6-6,180.0,9,0.0,Forward-Guard,Active,Mavericks,DAL,Dallas,2012.0,2022.0,Y,Y,Undrafted,Undrafted,Undrafted,N,6.5
+228,1626158,Richaun,Holmes,1993-10-15T00:00:00,Bowling Green,USA,Bowling Green/USA,6-8,235.0,7,22.0,Forward,Active,Kings,SAC,Sacramento,2015.0,2022.0,Y,Y,2015,2,37,N,6.667
+229,1631096,Chet,Holmgren,2002-05-01T00:00:00,Gonzaga,USA,Gonzaga/USA,7-1,195.0,0,7.0,Center-Forward,Active,Thunder,OKC,Oklahoma City,2022.0,2022.0,N,N,2022,1,2,N,7.083
+230,201143,Al,Horford,1986-06-03T00:00:00,Florida,Dominican Republic,Florida/Dominican Republic,6-9,240.0,15,42.0,Center-Forward,Active,Celtics,BOS,Boston,2007.0,2022.0,Y,Y,2007,1,3,N,6.75
+231,1629659,Talen,Horton-Tucker,2000-11-25T00:00:00,Iowa State,USA,Iowa State/USA,6-4,234.0,3,0.0,Guard,Active,Jazz,UTA,Utah,2019.0,2022.0,Y,Y,2019,2,46,N,6.333
+232,1627863,Danuel,House Jr.,1993-06-07T00:00:00,Texas A&M,USA,Texas A&M/USA,6-6,220.0,6,25.0,Forward-Guard,Active,76ers,PHI,Philadelphia,2016.0,2022.0,Y,Y,Undrafted,Undrafted,Undrafted,N,6.5
+233,1631216,Caleb,Houstan,2003-01-09T00:00:00,Michigan,Canada,Michigan/Canada,6-8,205.0,0,2.0,Guard,Active,Magic,ORL,Orlando,2022.0,2022.0,Y,Y,2022,2,32,N,6.667
+234,1631309,Trevor,Hudgins,1999-03-23T00:00:00,Northwest Missouri State,USA,Northwest Missouri State/USA,6-0,180.0,0,12.0,Guard,Active,Rockets,HOU,Houston,2022.0,2022.0,Y,Y,Undrafted,Undrafted,Undrafted,N,6.0
+235,1628989,Kevin,Huerter,1998-08-27T00:00:00,Maryland,USA,Maryland/USA,6-7,198.0,4,9.0,Guard-Forward,Active,Kings,SAC,Sacramento,2018.0,2022.0,Y,Y,2018,1,19,N,6.583
+236,1630643,Jay,Huff,1997-08-25T00:00:00,Virginia,USA,Virginia/USA,7-1,240.0,1,30.0,Center,Active,Wizards,WAS,Washington,2021.0,2022.0,Y,Y,Undrafted,Undrafted,Undrafted,N,7.083
+237,1630624,Feron,Hunt,1999-07-05T00:00:00,Southern Methodist,USA,Southern Methodist/USA,6-8,195.0,2,11.0,Forward,Inactive,Knicks,NYK,New York,2021.0,2021.0,Y,Y,Undrafted,Undrafted,Undrafted,N,6.667
+238,1629631,De'Andre,Hunter,1997-12-02T00:00:00,Virginia,USA,Virginia/USA,6-8,221.0,3,12.0,Forward-Guard,Active,Hawks,ATL,Atlanta,2019.0,2022.0,Y,Y,2019,1,4,N,6.667
+239,1630538,Bones,Hyland,2000-09-14T00:00:00,Virginia Commonwealth,USA,Virginia Commonwealth/USA,6-2,169.0,1,3.0,Guard,Active,Clippers,LAC,LA,2021.0,2022.0,Y,Y,2021,1,26,N,6.167
+240,201586,Serge,Ibaka,1989-09-18T00:00:00,                                   ,Democratic Republic of the Congo,Ricoh Manresa/Democratic Republic of the Congo,6-11,235.0,13,,Forward,Inactive,,,,2009.0,2022.0,Y,Y,2008,1,24,N,6.917
+241,2738,Andre,Iguodala,1984-01-28T00:00:00,Arizona,USA,Arizona/USA,6-6,215.0,18,9.0,Guard-Forward,Active,Warriors,GSW,Golden State,2004.0,2022.0,Y,Y,2004,1,9,N,6.5
+242,204060,Joe,Ingles,1987-10-02T00:00:00,Maccabi Tel Aviv,Australia,Maccabi Tel Aviv/Australia,6-9,220.0,8,7.0,Forward-Guard,Active,Bucks,MIL,Milwaukee,2014.0,2022.0,Y,Y,Undrafted,Undrafted,Undrafted,N,6.75
+243,1627742,Brandon,Ingram,1997-09-02T00:00:00,Duke,USA,Duke/USA,6-8,190.0,6,14.0,Forward,Active,Pelicans,NOP,New Orleans,2016.0,2022.0,Y,Y,2016,1,2,N,6.667
+244,202681,Kyrie,Irving,1992-03-23T00:00:00,Duke,Australia,Duke/Australia,6-2,195.0,11,2.0,Guard,Active,Mavericks,DAL,Dallas,2011.0,2022.0,Y,Y,2011,1,1,N,6.167
+245,1628371,Jonathan,Isaac,1997-10-03T00:00:00,Florida State,USA,Florida State/USA,6-10,230.0,3,1.0,Forward,Active,Magic,ORL,Orlando,2017.0,2022.0,Y,Y,2017,1,6,N,6.833
+246,1631093,Jaden,Ivey,2002-02-13T00:00:00,Purdue,USA,Purdue/USA,6-4,195.0,0,23.0,Guard,Active,Pistons,DET,Detroit,2022.0,2022.0,Y,Y,2022,1,5,N,6.333
+247,1630543,Isaiah,Jackson,2002-01-10T00:00:00,Kentucky,USA,Kentucky/USA,6-9,205.0,1,22.0,Forward,Active,Pacers,IND,Indiana,2021.0,2022.0,Y,Y,2021,1,22,N,6.75
+248,1628367,Josh,Jackson,1997-02-10T00:00:00,Kansas,USA,Kansas/USA,6-8,207.0,6,55.0,Guard-Forward,Inactive,Kings,SAC,Sacramento,2017.0,2021.0,Y,Y,2017,1,4,N,6.667
+249,1628382,Justin,Jackson,1995-03-28T00:00:00,North Carolina,USA,North Carolina/USA,6-8,220.0,5,,Forward,Inactive,,,,2017.0,2022.0,Y,Y,2017,1,15,N,6.667
+250,1631245,Quenton,Jackson,1998-09-15T00:00:00,Texas A&M,USA,Texas A&M/USA,6-5,173.0,0,29.0,Guard,Active,Wizards,WAS,Washington,2022.0,2022.0,Y,Y,Undrafted,Undrafted,Undrafted,N,6.417
+251,202704,Reggie,Jackson,1990-04-16T00:00:00,Boston College,USA,Boston College/USA,6-2,208.0,11,7.0,Guard,Active,Nuggets,DEN,Denver,2011.0,2022.0,Y,Y,2011,1,24,N,6.167
+252,1628991,Jaren,Jackson Jr.,1999-09-15T00:00:00,Michigan State,USA,Michigan State/USA,6-10,242.0,4,13.0,Forward-Center,Active,Grizzlies,MEM,Memphis,2018.0,2022.0,Y,Y,2018,1,4,N,6.833
+253,2544,LeBron,James,1984-12-30T00:00:00,St. Vincent-St. Mary HS (OH),USA,St. Vincent-St. Mary HS (OH)/USA,6-9,250.0,19,6.0,Forward,Active,Lakers,LAL,Los Angeles,2003.0,2022.0,Y,Y,2003,1,1,Y,6.75
+254,1629610,DaQuan,Jeffries,1997-08-30T00:00:00,Tulsa,USA,Tulsa/USA,6-5,222.0,3,8.0,Guard-Forward,Active,Knicks,NYK,New York,2019.0,2022.0,Y,Y,Undrafted,Undrafted,Undrafted,N,6.417
+255,1629660,Ty,Jerome,1997-07-08T00:00:00,Virginia,USA,Virginia/USA,6-5,195.0,3,10.0,Guard-Forward,Active,Warriors,GSW,Golden State,2019.0,2022.0,Y,Y,2019,1,24,N,6.417
+256,1630198,Isaiah,Joe,1999-07-02T00:00:00,Arkansas,USA,Arkansas/USA,6-3,165.0,2,11.0,Guard,Active,Thunder,OKC,Oklahoma City,2020.0,2022.0,Y,Y,2020,2,49,N,6.25
+257,1628993,Alize,Johnson,1996-04-22T00:00:00,Missouri State,USA,Missouri State/USA,6-8,212.0,4,,Forward,Inactive,,,,2018.0,2022.0,Y,Y,2018,2,50,N,6.667
+258,1629661,Cameron,Johnson,1996-03-03T00:00:00,North Carolina,USA,North Carolina/USA,6-8,210.0,3,2.0,Forward,Active,Nets,BKN,Brooklyn,2019.0,2022.0,Y,Y,2019,1,11,N,6.667
+259,1630552,Jalen,Johnson,2001-12-18T00:00:00,Duke,USA,Duke/USA,6-8,219.0,1,1.0,Forward,Active,Hawks,ATL,Atlanta,2021.0,2022.0,Y,Y,2021,1,20,N,6.667
+260,201949,James,Johnson,1987-02-20T00:00:00,Wake Forest,USA,Wake Forest/USA,6-7,240.0,13,16.0,Forward,Active,Pacers,IND,Indiana,2009.0,2022.0,Y,Y,2009,1,16,N,6.583
+261,1629640,Keldon,Johnson,1999-10-11T00:00:00,Kentucky,USA,Kentucky/USA,6-5,220.0,3,3.0,Forward-Guard,Active,Spurs,SAS,San Antonio,2019.0,2022.0,Y,Y,2019,1,29,N,6.417
+262,1630553,Keon,Johnson,2002-03-10T00:00:00,Tennessee,USA,Tennessee/USA,6-3,185.0,1,6.0,Guard,Active,Trail Blazers,POR,Portland,2021.0,2022.0,Y,Y,2021,1,21,N,6.25
+263,1626169,Stanley,Johnson,1996-05-29T00:00:00,Arizona,USA,Arizona/USA,6-6,242.0,7,,Forward-Guard,Inactive,,,,2015.0,2022.0,Y,Y,2015,1,8,N,6.5
+264,203999,Nikola,Jokic,1995-02-19T00:00:00,Mega Basket,Serbia,Mega Basket/Serbia,6-11,284.0,7,15.0,Center,Active,Nuggets,DEN,Denver,2015.0,2022.0,Y,Y,2014,2,41,N,6.917
+265,1630637,Carlik,Jones,1997-12-23T00:00:00,Louisville,USA,Louisville/USA,6-0,174.0,1,22.0,Guard,Active,Bulls,CHI,Chicago,2021.0,2022.0,Y,Y,Undrafted,Undrafted,Undrafted,N,6.0
+266,1627745,Damian,Jones,1995-06-30T00:00:00,Vanderbilt,USA,Vanderbilt/USA,6-11,245.0,6,15.0,Center,Active,Jazz,UTA,Utah,2016.0,2022.0,Y,Y,2016,1,30,N,6.917
+267,1630529,Herbert,Jones,1998-10-06T00:00:00,Alabama,USA,Alabama/USA,6-7,206.0,1,5.0,Forward,Active,Pelicans,NOP,New Orleans,2021.0,2022.0,Y,Y,2021,2,35,N,6.583
+268,1630539,Kai,Jones,2001-01-19T00:00:00,Texas,Bahamas,Texas/Bahamas,6-11,221.0,1,23.0,Center-Forward,Active,Hornets,CHA,Charlotte,2021.0,2022.0,Y,Y,2021,1,19,N,6.917
+269,1630200,Tre,Jones,2000-01-08T00:00:00,Duke,USA,Duke/USA,6-1,185.0,2,33.0,Guard,Active,Spurs,SAS,San Antonio,2020.0,2022.0,Y,Y,2020,2,41,N,6.083
+270,1626145,Tyus,Jones,1996-05-10T00:00:00,Duke,USA,Duke/USA,6-2,196.0,7,21.0,Guard,Active,Grizzlies,MEM,Memphis,2015.0,2022.0,Y,Y,2015,1,24,N,6.167
+271,1627884,Derrick,Jones Jr.,1997-02-15T00:00:00,UNLV,USA,UNLV/USA,6-6,210.0,6,5.0,Forward,Active,Bulls,CHI,Chicago,2016.0,2022.0,Y,Y,Undrafted,Undrafted,Undrafted,N,6.5
+272,201599,DeAndre,Jordan,1988-07-21T00:00:00,Texas A&M,USA,Texas A&M/USA,6-11,265.0,14,6.0,Center,Active,Nuggets,DEN,Denver,2008.0,2022.0,Y,Y,2008,2,35,N,6.917
+273,202709,Cory,Joseph,1991-08-20T00:00:00,Texas,Canada,Texas/Canada,6-3,200.0,11,18.0,Guard,Active,Pistons,DET,Detroit,2011.0,2022.0,Y,Y,2011,1,29,N,6.25
+274,1631107,Nikola,Jovic,2003-06-09T00:00:00,                                   ,Serbia,Mega Basket/Serbia,6-10,205.0,0,5.0,Forward,Active,Heat,MIA,Miami,2022.0,2022.0,Y,Y,2022,1,27,N,6.833
+275,1630548,Johnny,Juzang,2001-03-17T00:00:00,UCLA,USA,UCLA/USA,6-6,209.0,0,33.0,Guard,Active,Jazz,UTA,Utah,2022.0,2022.0,Y,Y,Undrafted,Undrafted,Undrafted,N,6.5
+276,1629662,Mfiondu,Kabengele,1997-08-14T00:00:00,Florida State,Canada,Florida State/Canada,6-10,250.0,2,28.0,Center,Active,Celtics,BOS,Boston,2019.0,2022.0,Y,Y,2019,1,27,N,6.833
+277,1626163,Frank,Kaminsky,1993-04-04T00:00:00,Wisconsin,USA,Wisconsin/USA,7-0,240.0,7,33.0,Forward-Center,Active,Rockets,HOU,Houston,2015.0,2022.0,Y,Y,2015,1,9,N,7.0
+278,1631211,Trevor,Keels,2003-08-26T00:00:00,Duke,USA,Duke/USA,6-4,221.0,0,3.0,Guard,Active,Knicks,NYK,New York,2022.0,2022.0,Y,Y,2022,2,42,N,6.333
+279,1628379,Luke,Kennard,1996-06-24T00:00:00,Duke,USA,Duke/USA,6-5,206.0,5,10.0,Guard,Active,Grizzlies,MEM,Memphis,2017.0,2022.0,Y,Y,2017,1,12,N,6.417
+280,1631117,Walker,Kessler,2001-07-26T00:00:00,Auburn,USA,Auburn/USA,7-0,245.0,0,24.0,Center,Active,Jazz,UTA,Utah,2022.0,2022.0,Y,Y,2022,1,22,N,7.0
+281,1630296,Braxton,Key,1997-02-14T00:00:00,Virginia,USA,Virginia/USA,6-8,225.0,1,,Forward,Inactive,,,,2021.0,2022.0,Y,Y,Undrafted,Undrafted,Undrafted,N,6.667
+282,1630557,Corey,Kispert,1999-03-03T00:00:00,Gonzaga,USA,Gonzaga/USA,6-6,224.0,1,24.0,Forward,Active,Wizards,WAS,Washington,2021.0,2022.0,Y,Y,2021,1,15,N,6.5
+283,1628467,Maxi,Kleber,1992-01-29T00:00:00,Bayern Munich,Germany,Bayern Munich/Germany,6-10,240.0,5,42.0,Forward,Active,Mavericks,DAL,Dallas,2017.0,2022.0,Y,Y,Undrafted,Undrafted,Undrafted,N,6.833
+284,1630233,Nathan,Knight,1997-09-20T00:00:00,William & Mary,USA,William & Mary/USA,6-8,253.0,2,13.0,Forward-Center,Active,Timberwolves,MIN,Minnesota,2020.0,2022.0,Y,Y,Undrafted,Undrafted,Undrafted,N,6.667
+285,1628995,Kevin,Knox II,1999-08-11T00:00:00,Kentucky,USA,Kentucky/USA,6-7,215.0,4,11.0,Forward,Active,Trail Blazers,POR,Portland,2018.0,2022.0,Y,Y,2018,1,9,N,6.583
+286,1631132,Christian,Koloko,2000-06-20T00:00:00,Arizona,Cameroon,Arizona/Cameroon,7-0,230.0,0,35.0,Center,Active,Raptors,TOR,Toronto,2022.0,2022.0,Y,Y,2022,2,33,N,7.0
+287,1629723,John,Konchar,1996-03-22T00:00:00,Indiana-Purdue Fort Wayne,USA,Indiana-Purdue Fort Wayne/USA,6-5,210.0,3,46.0,Guard,Active,Grizzlies,MEM,Memphis,2019.0,2022.0,Y,Y,Undrafted,Undrafted,Undrafted,N,6.417
+288,1627788,Furkan,Korkmaz,1997-07-24T00:00:00,Anadolu Efes,Turkey,Anadolu Efes/Turkey,6-7,202.0,5,30.0,Guard-Forward,Active,76ers,PHI,Philadelphia,2017.0,2022.0,Y,Y,2016,1,26,N,6.583
+289,1628436,Luke,Kornet,1995-07-15T00:00:00,Vanderbilt,USA,Vanderbilt/USA,7-2,250.0,5,40.0,Center-Forward,Active,Celtics,BOS,Boston,2017.0,2022.0,Y,Y,Undrafted,Undrafted,Undrafted,N,7.167
+290,1630249,Vit,Krejci,2000-06-19T00:00:00,Zaragoza,Czech Republic,Zaragoza/Czech Republic,6-8,195.0,1,27.0,Guard,Active,Hawks,ATL,Atlanta,2021.0,2022.0,Y,Y,2020,2,37,N,6.667
+291,1630228,Jonathan,Kuminga,2002-10-06T00:00:00,NBA G League Ignite,DRC,NBA G League Ignite/DRC,6-7,225.0,1,0.0,Forward,Active,Warriors,GSW,Golden State,2021.0,2022.0,Y,Y,2021,1,7,N,6.583
+292,1628398,Kyle,Kuzma,1995-07-24T00:00:00,Utah,USA,Utah/USA,6-9,221.0,5,33.0,Forward,Active,Wizards,WAS,Washington,2017.0,2022.0,Y,Y,2017,1,27,N,6.75
+293,1631222,Jake,LaRavia,2001-11-03T00:00:00,Wake Forest,USA,Wake Forest/USA,6-7,235.0,0,3.0,Forward,Active,Grizzlies,MEM,Memphis,2022.0,2022.0,Y,Y,2022,1,19,N,6.583
+294,203897,Zach,LaVine,1995-03-10T00:00:00,UCLA,USA,UCLA/USA,6-5,200.0,8,8.0,Guard,Active,Bulls,CHI,Chicago,2014.0,2022.0,Y,Y,2014,1,13,N,6.417
+295,1630237,Anthony,Lamb,1998-01-20T00:00:00,Vermont,USA,Vermont/USA,6-6,227.0,2,40.0,Forward,Active,Warriors,GSW,Golden State,2020.0,2022.0,Y,Y,Undrafted,Undrafted,Undrafted,N,6.5
+296,1629111,Jock,Landale,1995-10-25T00:00:00,St. Mary's,Australia,St. Mary's/Australia,6-11,255.0,1,11.0,Center,Active,Suns,PHX,Phoenix,2021.0,2022.0,Y,Y,Undrafted,Undrafted,Undrafted,N,6.917
+297,1629641,Romeo,Langford,1999-10-25T00:00:00,Indiana,USA,Indiana/USA,6-5,216.0,3,35.0,Guard-Forward,Active,Spurs,SAS,San Antonio,2019.0,2022.0,Y,Y,2019,1,14,N,6.417
+298,1630639,A.J.,Lawson,2000-07-15T00:00:00,South Carolina,Canada,South Carolina/Canada,6-6,179.0,0,9.0,Guard,Active,Mavericks,DAL,Dallas,2022.0,2022.0,Y,Y,Undrafted,Undrafted,Undrafted,N,6.5
+299,1627774,Jake,Layman,1994-03-07T00:00:00,Maryland,USA,Maryland/USA,6-8,209.0,7,10.0,Forward,Inactive,Timberwolves,MIN,Minnesota,2016.0,2021.0,Y,Y,2016,2,47,N,6.667
+300,1627747,Caris,LeVert,1994-08-25T00:00:00,Michigan,USA,Michigan/USA,6-6,205.0,6,3.0,Guard,Active,Cavaliers,CLE,Cleveland,2016.0,2022.0,Y,Y,2016,1,20,N,6.5
+301,1627814,Damion,Lee,1992-10-21T00:00:00,Drexel,USA,Drexel/USA,6-5,210.0,5,10.0,Guard-Forward,Active,Suns,PHX,Phoenix,2017.0,2022.0,Y,Y,Undrafted,Undrafted,Undrafted,N,6.417
+302,203458,Alex,Len,1993-06-16T00:00:00,Maryland,Ukraine,Maryland/Ukraine,7-2,250.0,9,25.0,Center,Active,Kings,SAC,Sacramento,2013.0,2022.0,Y,Y,2013,1,5,N,7.167
+303,202695,Kawhi,Leonard,1991-06-29T00:00:00,San Diego State,USA,San Diego State/USA,6-7,225.0,10,2.0,Forward,Active,Clippers,LAC,LA,2011.0,2022.0,Y,Y,2011,1,15,Y,6.583
+304,1631171,Justin,Lewis,2002-04-12T00:00:00,Marquette,USA,Marquette/USA,6-7,245.0,0,34.0,Forward,Active,Bulls,CHI,Chicago,2022.0,2022.0,N,N,Undrafted,Undrafted,Undrafted,N,6.583
+305,1630184,Kira,Lewis Jr.,2001-04-06T00:00:00,Alabama,USA,Alabama/USA,6-1,170.0,2,13.0,Guard,Active,Pelicans,NOP,New Orleans,2020.0,2022.0,Y,Y,2020,1,13,N,6.083
+306,203081,Damian,Lillard,1990-07-15T00:00:00,Weber State,USA,Weber State/USA,6-2,195.0,10,0.0,Guard,Active,Trail Blazers,POR,Portland,2012.0,2022.0,Y,Y,2012,1,6,Y,6.167
+307,1629642,Nassir,Little,2000-02-11T00:00:00,North Carolina,USA,North Carolina/USA,6-5,220.0,3,10.0,Forward-Guard,Active,Trail Blazers,POR,Portland,2019.0,2022.0,Y,Y,2019,1,25,N,6.417
+308,1630587,Isaiah,Livers,1998-07-28T00:00:00,Michigan,USA,Michigan/USA,6-6,232.0,1,12.0,Forward,Active,Pistons,DET,Detroit,2021.0,2022.0,Y,Y,2021,2,42,N,6.5
+309,1631254,Kenneth,Lofton Jr.,2002-08-14T00:00:00,Louisiana Tech,USA,Louisiana Tech/USA,6-6,275.0,0,6.0,Forward,Active,Grizzlies,MEM,Memphis,2022.0,2022.0,Y,Y,Undrafted,Undrafted,Undrafted,N,6.5
+310,1626172,Kevon,Looney,1996-02-06T00:00:00,UCLA,USA,UCLA/USA,6-9,222.0,7,5.0,Forward,Active,Warriors,GSW,Golden State,2015.0,2022.0,Y,Y,2015,1,30,N,6.75
+311,201572,Brook,Lopez,1988-04-01T00:00:00,Stanford,USA,Stanford/USA,7-1,282.0,14,11.0,Center,Active,Bucks,MIL,Milwaukee,2008.0,2022.0,Y,Y,2008,1,10,N,7.083
+312,201577,Robin,Lopez,1988-04-01T00:00:00,Stanford,USA,Stanford/USA,7-0,281.0,14,33.0,Center,Active,Cavaliers,CLE,Cleveland,2008.0,2022.0,Y,Y,2008,1,15,N,7.0
+313,201567,Kevin,Love,1988-09-07T00:00:00,UCLA,USA,UCLA/USA,6-8,251.0,14,0.0,Forward-Center,Active,Heat,MIA,Miami,2008.0,2022.0,Y,Y,2008,1,5,N,6.667
+314,200768,Kyle,Lowry,1986-03-25T00:00:00,Villanova,USA,Villanova/USA,6-0,196.0,16,7.0,Guard,Active,Heat,MIA,Miami,2006.0,2022.0,Y,Y,2006,1,24,N,6.0
+315,1627789,Timothe,Luwawu-Cabarrot,1995-05-09T00:00:00,Mega Basket,France,Mega Basket/France,6-7,215.0,7,7.0,Guard-Forward,Inactive,Hawks,ATL,Atlanta,2016.0,2021.0,Y,Y,2016,1,24,N,6.583
+316,1626168,Trey,Lyles,1995-11-05T00:00:00,Kentucky,Canada,Kentucky/Canada,6-9,234.0,7,41.0,Forward,Active,Kings,SAC,Sacramento,2015.0,2022.0,Y,Y,2015,1,12,N,6.75
+317,1630572,Sandro,Mamukelashvili,1999-05-23T00:00:00,Seton Hall,Georgia,Seton Hall/Georgia,6-10,240.0,1,54.0,Forward-Center,Active,Spurs,SAS,San Antonio,2021.0,2022.0,Y,Y,2021,2,54,N,6.833
+318,1629611,Terance,Mann,1996-10-18T00:00:00,Florida State,USA,Florida State/USA,6-5,215.0,3,14.0,Guard-Forward,Active,Clippers,LAC,LA,2019.0,2022.0,Y,Y,2019,2,48,N,6.417
+319,1630544,Tre,Mann,2001-02-03T00:00:00,Florida,USA,Florida/USA,6-3,178.0,1,23.0,Guard,Active,Thunder,OKC,Oklahoma City,2021.0,2022.0,Y,Y,2021,1,18,N,6.25
+320,1626246,Boban,Marjanovic,1988-08-15T00:00:00,Crvena zvezda,Serbia,Crvena zvezda/Serbia,7-4,290.0,7,51.0,Center,Active,Rockets,HOU,Houston,2015.0,2022.0,Y,Y,Undrafted,Undrafted,Undrafted,N,7.333
+321,1628374,Lauri,Markkanen,1997-05-22T00:00:00,Arizona,Finland,Arizona/Finland,7-0,240.0,5,23.0,Forward-Center,Active,Jazz,UTA,Utah,2017.0,2022.0,Y,Y,2017,1,7,N,7.0
+322,1630230,Naji,Marshall,1998-01-24T00:00:00,Xavier,USA,Xavier/USA,6-7,220.0,2,8.0,Forward,Active,Pelicans,NOP,New Orleans,2020.0,2022.0,Y,Y,Undrafted,Undrafted,Undrafted,N,6.583
+323,1628997,Caleb,Martin,1995-09-28T00:00:00,Nevada,USA,Nevada/USA,6-5,205.0,3,16.0,Forward,Active,Heat,MIA,Miami,2019.0,2022.0,Y,Y,Undrafted,Undrafted,Undrafted,N,6.417
+324,1628998,Cody,Martin,1995-09-28T00:00:00,Nevada,USA,Nevada/USA,6-6,205.0,3,11.0,Forward,Active,Hornets,CHA,Charlotte,2019.0,2022.0,Y,Y,2019,2,36,N,6.5
+325,1629103,Kelan,Martin,1995-08-03T00:00:00,Butler,USA,Butler/USA,6-5,230.0,4,,Forward,Inactive,,,,2019.0,2021.0,Y,Y,Undrafted,Undrafted,Undrafted,N,6.417
+326,1631213,Tyrese,Martin,1999-03-07T00:00:00,Connecticut,USA,Connecticut/USA,6-6,215.0,0,22.0,Guard,Active,Hawks,ATL,Atlanta,2022.0,2022.0,Y,Y,2022,2,51,N,6.5
+327,1630231,Kenyon,Martin Jr.,2001-01-06T00:00:00,IMG Academy (FL),USA,IMG Academy (FL)/USA,6-7,215.0,2,6.0,Forward,Active,Rockets,HOU,Houston,2020.0,2022.0,Y,Y,2020,2,52,N,6.583
+328,1629726,Garrison,Mathews,1996-10-24T00:00:00,Lipscomb,USA,Lipscomb/USA,6-6,215.0,3,25.0,Guard,Active,Hawks,ATL,Atlanta,2019.0,2022.0,Y,Y,Undrafted,Undrafted,Undrafted,N,6.5
+329,1631097,Bennedict,Mathurin,2002-06-19T00:00:00,Arizona,Canada,Arizona/Canada,6-5,210.0,0,0.0,Guard-Forward,Active,Pacers,IND,Indiana,2022.0,2022.0,Y,Y,2022,1,6,N,6.417
+330,202083,Wesley,Matthews,1986-10-14T00:00:00,Marquette,USA,Marquette/USA,6-5,220.0,13,23.0,Guard,Active,Bucks,MIL,Milwaukee,2009.0,2022.0,Y,Y,Undrafted,Undrafted,Undrafted,N,6.417
+331,1630178,Tyrese,Maxey,2000-11-04T00:00:00,Kentucky,USA,Kentucky/USA,6-2,200.0,2,0.0,Guard,Active,76ers,PHI,Philadelphia,2020.0,2022.0,Y,Y,2020,1,21,N,6.167
+332,1630219,Skylar,Mays,1997-09-05T00:00:00,Louisiana State,USA,Louisiana State/USA,6-4,205.0,3,4.0,Guard,Inactive,Hawks,ATL,Atlanta,2020.0,2021.0,Y,Y,2020,2,50,N,6.333
+333,1630540,Miles,McBride,2000-09-08T00:00:00,West Virginia,USA,West Virginia/USA,6-2,195.0,1,2.0,Guard,Active,Knicks,NYK,New York,2021.0,2022.0,Y,Y,2021,2,36,N,6.167
+334,203468,CJ,McCollum,1991-09-19T00:00:00,Lehigh,USA,Lehigh/USA,6-3,190.0,9,3.0,Guard,Active,Pelicans,NOP,New Orleans,2013.0,2022.0,Y,Y,2013,1,10,N,6.25
+335,204456,T.J.,McConnell,1992-03-25T00:00:00,Arizona,USA,Arizona/USA,6-1,190.0,7,9.0,Guard,Active,Pacers,IND,Indiana,2015.0,2022.0,Y,Y,2015,0,,N,6.083
+336,1630183,Jaden,McDaniels,2000-09-29T00:00:00,Washington,USA,Washington/USA,6-9,185.0,2,3.0,Forward,Active,Timberwolves,MIN,Minnesota,2020.0,2022.0,Y,Y,2020,1,28,N,6.75
+337,1629667,Jalen,McDaniels,1998-01-31T00:00:00,San Diego State,USA,San Diego State/USA,6-9,205.0,3,7.0,Forward-Center,Active,76ers,PHI,Philadelphia,2019.0,2022.0,Y,Y,2019,2,52,N,6.75
+338,203926,Doug,McDermott,1992-01-03T00:00:00,Creighton,USA,Creighton/USA,6-6,225.0,8,17.0,Forward,Active,Spurs,SAS,San Antonio,2014.0,2022.0,Y,Y,2014,1,11,N,6.5
+339,1630253,Sean,McDermott,1996-11-03T00:00:00,Butler,USA,Butler/USA,6-6,195.0,2,30.0,Forward,Inactive,Grizzlies,MEM,Memphis,2020.0,2020.0,Y,Y,Undrafted,Undrafted,Undrafted,N,6.5
+340,201580,JaVale,McGee,1988-01-19T00:00:00,Nevada,USA,Nevada/USA,7-0,270.0,14,0.0,Center-Forward,Active,Mavericks,DAL,Dallas,2008.0,2022.0,Y,Y,2008,1,18,N,7.0
+341,1631121,Bryce,McGowens,2002-11-08T00:00:00,Nebraska,USA,Nebraska/USA,6-6,175.0,0,7.0,Guard,Active,Hornets,CHA,Charlotte,2022.0,2022.0,Y,Y,2022,2,40,N,6.5
+342,203585,Rodney,McGruder,1991-07-29T00:00:00,Kansas State,USA,Kansas State/USA,6-4,205.0,6,17.0,Guard,Active,Pistons,DET,Detroit,2016.0,2022.0,Y,Y,Undrafted,Undrafted,Undrafted,N,6.333
+343,1629162,Jordan,McLaughlin,1996-04-09T00:00:00,Southern California,USA,Southern California/USA,6-0,185.0,3,6.0,Guard,Active,Timberwolves,MIN,Minnesota,2019.0,2022.0,Y,Y,Undrafted,Undrafted,Undrafted,N,6.0
+344,1629001,De'Anthony,Melton,1998-05-28T00:00:00,Southern California,USA,Southern California/USA,6-2,200.0,4,8.0,Guard,Active,76ers,PHI,Philadelphia,2018.0,2022.0,Y,Y,2018,2,46,N,6.167
+345,1630241,Sam,Merrill,1996-05-15T00:00:00,Utah State,USA,Utah State/USA,6-4,205.0,2,,Guard,Inactive,,,,2020.0,2022.0,Y,Y,2020,2,60,N,6.333
+346,1629002,Chimezie,Metu,1997-03-22T00:00:00,Southern California,USA,Southern California/USA,6-9,225.0,4,7.0,Forward-Center,Active,Kings,SAC,Sacramento,2018.0,2022.0,Y,Y,2018,2,49,N,6.75
+347,203114,Khris,Middleton,1991-08-12T00:00:00,Texas A&M,USA,Texas A&M/USA,6-7,222.0,10,22.0,Forward,Active,Bucks,MIL,Milwaukee,2012.0,2022.0,Y,Y,2012,2,39,N,6.583
+348,201988,Patty,Mills,1988-08-11T00:00:00,St. Mary's,Australia,St. Mary's/Australia,6-0,180.0,13,8.0,Guard,Active,Nets,BKN,Brooklyn,2009.0,2022.0,Y,Y,2009,2,55,N,6.0
+349,1629003,Shake,Milton,1996-09-26T00:00:00,Southern Methodist,USA,Southern Methodist/USA,6-5,205.0,4,18.0,Guard-Forward,Active,76ers,PHI,Philadelphia,2018.0,2022.0,Y,Y,2018,2,54,N,6.417
+350,1631169,Josh,Minott,2002-11-25T00:00:00,Memphis,USA,Memphis/USA,6-8,205.0,0,8.0,Forward,Active,Timberwolves,MIN,Minnesota,2022.0,2022.0,Y,Y,2022,2,45,N,6.667
+351,1630558,Davion,Mitchell,1998-09-05T00:00:00,Baylor,USA,Baylor/USA,6-0,202.0,1,15.0,Guard,Active,Kings,SAC,Sacramento,2021.0,2022.0,Y,Y,2021,1,9,N,6.0
+352,1628378,Donovan,Mitchell,1996-09-07T00:00:00,Louisville,USA,Louisville/USA,6-1,215.0,5,45.0,Guard,Active,Cavaliers,CLE,Cleveland,2017.0,2022.0,Y,Y,2017,1,13,N,6.083
+353,1630596,Evan,Mobley,2001-06-18T00:00:00,Southern California,USA,Southern California/USA,6-11,215.0,1,4.0,Center,Active,Cavaliers,CLE,Cleveland,2021.0,2022.0,Y,Y,2021,1,3,N,6.917
+354,1630600,Isaiah,Mobley,1999-09-24T00:00:00,Southern California,USA,Southern California/USA,6-8,238.0,0,15.0,Forward,Active,Cavaliers,CLE,Cleveland,2022.0,2022.0,Y,Y,2022,2,49,N,6.667
+355,1631320,Chima,Moneke,1995-12-24T00:00:00,Cal-Davis,Nigeria,California-Davis/Nigeria,6-5,223.0,0,,Forward,Inactive,,,,2022.0,2022.0,Y,Y,Undrafted,Undrafted,Undrafted,N,6.417
+356,1628370,Malik,Monk,1998-02-04T00:00:00,Kentucky,USA,Kentucky/USA,6-3,200.0,5,0.0,Guard,Active,Kings,SAC,Sacramento,2017.0,2022.0,Y,Y,2017,1,11,N,6.25
+357,1630541,Moses,Moody,2002-05-31T00:00:00,Arkansas,USA,Arkansas/USA,6-5,211.0,1,4.0,Guard,Active,Warriors,GSW,Golden State,2021.0,2022.0,Y,Y,2021,1,14,N,6.417
+358,1629875,Xavier,Moon,1995-01-02T00:00:00,Morehead State,USA,Morehead State/USA,6-0,165.0,1,15.0,Guard,Active,Clippers,LAC,LA,2021.0,2022.0,Y,Y,Undrafted,Undrafted,Undrafted,N,6.0
+359,1631111,Wendell,Moore Jr.,2001-09-18T00:00:00,Duke,USA,Duke/USA,6-5,215.0,0,7.0,Guard,Active,Timberwolves,MIN,Minnesota,2022.0,2022.0,Y,Y,2022,1,26,N,6.417
+360,1629630,Ja,Morant,1999-08-10T00:00:00,Murray State,USA,Murray State/USA,6-2,174.0,3,12.0,Guard,Active,Grizzlies,MEM,Memphis,2019.0,2022.0,Y,Y,2019,1,2,N,6.167
+361,202693,Markieff,Morris,1989-09-02T00:00:00,Kansas,USA,Kansas/USA,6-9,245.0,11,13.0,Forward,Active,Mavericks,DAL,Dallas,2011.0,2022.0,Y,Y,2011,1,13,N,6.75
+362,1628420,Monte,Morris,1995-06-27T00:00:00,Iowa State,USA,Iowa State/USA,6-2,183.0,5,22.0,Guard,Active,Wizards,WAS,Washington,2017.0,2022.0,Y,Y,2017,2,51,N,6.167
+363,202694,Marcus,Morris Sr.,1989-09-02T00:00:00,Kansas,USA,Kansas/USA,6-8,218.0,11,8.0,Forward,Active,Clippers,LAC,LA,2011.0,2022.0,Y,Y,2011,1,14,N,6.667
+364,1628539,Mychal,Mulder,1994-06-12T00:00:00,Kentucky,Canada,Kentucky/Canada,6-3,195.0,4,12.0,Guard,Inactive,Heat,MIA,Miami,2019.0,2021.0,Y,Y,Undrafted,Undrafted,Undrafted,N,6.25
+365,1630530,Trey,Murphy III,2000-06-18T00:00:00,Virginia,USA,Virginia/USA,6-8,206.0,1,25.0,Forward,Active,Pelicans,NOP,New Orleans,2021.0,2022.0,Y,Y,2021,1,17,N,6.667
+366,1627749,Dejounte,Murray,1996-09-19T00:00:00,Washington,USA,Washington/USA,6-5,180.0,5,5.0,Guard,Active,Hawks,ATL,Atlanta,2016.0,2022.0,Y,Y,2016,1,29,N,6.417
+367,1627750,Jamal,Murray,1997-02-23T00:00:00,Kentucky,Canada,Kentucky/Canada,6-4,215.0,5,27.0,Guard,Active,Nuggets,DEN,Denver,2016.0,2022.0,Y,Y,2016,1,7,N,6.333
+368,1631099,Keegan,Murray,2000-08-19T00:00:00,Iowa,USA,Iowa/USA,6-8,225.0,0,13.0,Forward,Active,Kings,SAC,Sacramento,2022.0,2022.0,Y,Y,2022,1,4,N,6.667
+369,203488,Mike,Muscala,1991-07-01T00:00:00,Bucknell,USA,Bucknell/USA,6-11,240.0,9,57.0,Forward-Center,Active,Celtics,BOS,Boston,2013.0,2022.0,Y,Y,2013,2,44,N,6.917
+370,1629004,Svi,Mykhailiuk,1997-06-10T00:00:00,Kansas,Ukraine,Kansas/Ukraine,6-7,205.0,4,17.0,Guard-Forward,Active,Hornets,CHA,Charlotte,2018.0,2022.0,Y,Y,2018,2,47,N,6.583
+371,1626204,Larry,Nance Jr.,1993-01-01T00:00:00,Wyoming,USA,Wyoming/USA,6-8,245.0,7,22.0,Forward-Center,Active,Pelicans,NOP,New Orleans,2015.0,2022.0,Y,Y,2015,1,27,N,6.667
+372,1629614,Andrew,Nembhard,2000-01-16T00:00:00,Gonzaga,Canada,Gonzaga/Canada,6-3,191.0,0,2.0,Guard-Forward,Active,Pacers,IND,Indiana,2022.0,2022.0,Y,Y,2022,2,31,N,6.25
+373,1630612,RJ,Nembhard Jr.,1999-03-22T00:00:00,Texas Christian,USA,TCU/USA,6-4,200.0,2,5.0,Guard,Inactive,Cavaliers,CLE,Cleveland,2021.0,2021.0,Y,Y,Undrafted,Undrafted,Undrafted,N,6.333
+374,1630174,Aaron,Nesmith,1999-10-16T00:00:00,Vanderbilt,USA,Vanderbilt/USA,6-5,215.0,2,23.0,Guard-Forward,Active,Pacers,IND,Indiana,2020.0,2022.0,Y,Y,2020,1,14,N,6.417
+375,203526,Raul,Neto,1992-05-19T00:00:00,Murcia,Brazil,Murcia/Brazil,6-2,180.0,7,19.0,Guard,Active,Cavaliers,CLE,Cleveland,2015.0,2022.0,Y,Y,2013,2,47,N,6.167
+376,1627777,Georges,Niang,1993-06-17T00:00:00,Iowa State,USA,Iowa State/USA,6-7,230.0,6,20.0,Forward,Active,76ers,PHI,Philadelphia,2016.0,2022.0,Y,Y,2016,2,50,N,6.583
+377,1630227,Daishen,Nix,2002-02-13T00:00:00,NBA G League Ignite,USA,NBA G League Ignite/USA,6-4,226.0,1,15.0,Guard,Active,Rockets,HOU,Houston,2021.0,2022.0,Y,Y,Undrafted,Undrafted,Undrafted,N,6.333
+378,1630192,Zeke,Nnaji,2001-01-09T00:00:00,Arizona,USA,Arizona/USA,6-9,240.0,2,22.0,Forward-Center,Active,Nuggets,DEN,Denver,2020.0,2022.0,Y,Y,2020,1,22,N,6.75
+379,203457,Nerlens,Noel,1994-04-10T00:00:00,Kentucky,USA,Kentucky/USA,6-10,220.0,8,0.0,Center-Forward,Active,Nets,BKN,Brooklyn,2013.0,2022.0,Y,Y,2013,1,6,N,6.833
+380,1629669,Jaylen,Nowell,1999-07-09T00:00:00,Washington,USA,Washington/USA,6-4,201.0,3,4.0,Guard,Active,Timberwolves,MIN,Minnesota,2019.0,2022.0,Y,Y,2019,2,43,N,6.333
+381,1628373,Frank,Ntilikina,1998-07-28T00:00:00,Strasbourg IG,France,Strasbourg IG/France,6-4,200.0,5,21.0,Guard,Active,Mavericks,DAL,Dallas,2017.0,2022.0,Y,Y,2017,1,8,N,6.333
+382,1629134,Kendrick,Nunn,1995-08-03T00:00:00,Oakland,USA,Oakland/USA,6-3,190.0,2,12.0,Guard,Active,Wizards,WAS,Washington,2018.0,2022.0,Y,Y,Undrafted,Undrafted,Undrafted,N,6.25
+383,203994,Jusuf,Nurkic,1994-08-23T00:00:00,Cedevita,Bosnia and Herzegovina,Cedevita/Bosnia and Herzegovina,7-0,290.0,8,27.0,Center,Active,Trail Blazers,POR,Portland,2014.0,2022.0,Y,Y,2014,1,16,N,7.0
+384,1628021,David,Nwaba,1993-01-14T00:00:00,Cal Poly,USA,Cal Poly/USA,6-5,219.0,7,2.0,Guard-Forward,Inactive,Rockets,HOU,Houston,2016.0,2021.0,Y,Y,Undrafted,Undrafted,Undrafted,N,6.417
+385,1629670,Jordan,Nwora,1998-09-09T00:00:00,Louisville,USA,Louisville/USA,6-9,225.0,2,13.0,Forward,Active,Pacers,IND,Indiana,2020.0,2022.0,Y,Y,2020,2,45,N,6.75
+386,1626220,Royce,O'Neale,1993-06-05T00:00:00,Baylor,USA,Baylor/USA,6-6,226.0,5,0.0,Forward,Active,Nets,BKN,Brooklyn,2017.0,2022.0,Y,Y,Undrafted,Undrafted,Undrafted,N,6.5
+387,1629643,Chuma,Okeke,1998-08-18T00:00:00,Auburn,USA,Auburn/USA,6-8,229.0,2,3.0,Forward,Active,Magic,ORL,Orlando,2020.0,2022.0,Y,Y,2019,1,16,N,6.667
+388,1629006,Josh,Okogie,1998-09-01T00:00:00,Georgia Tech,Nigeria,Georgia Tech/Nigeria,6-4,213.0,4,2.0,Guard,Active,Suns,PHX,Phoenix,2018.0,2022.0,Y,Y,2018,1,20,N,6.333
+389,1630168,Onyeka,Okongwu,2000-12-11T00:00:00,Southern California,USA,Southern California/USA,6-9,240.0,2,17.0,Forward-Center,Active,Hawks,ATL,Atlanta,2020.0,2022.0,Y,Y,2020,1,6,N,6.75
+390,1630171,Isaac,Okoro,2001-01-26T00:00:00,Auburn,USA,Auburn/USA,6-5,225.0,2,35.0,Forward-Guard,Active,Cavaliers,CLE,Cleveland,2020.0,2022.0,Y,Y,2020,1,5,N,6.417
+391,1629644,KZ,Okpala,1999-04-28T00:00:00,Stanford,USA,Stanford/USA,6-8,215.0,3,,Forward-Guard,Inactive,,,,2019.0,2022.0,Y,Y,2019,2,32,N,6.667
+392,203506,Victor,Oladipo,1992-05-04T00:00:00,Indiana,USA,Indiana/USA,6-3,213.0,9,4.0,Guard,Active,Heat,MIA,Miami,2013.0,2022.0,Y,Y,2013,1,2,N,6.25
+393,203482,Kelly,Olynyk,1991-04-19T00:00:00,Gonzaga,Canada,Gonzaga/Canada,6-11,240.0,9,41.0,Forward-Center,Active,Jazz,UTA,Utah,2013.0,2022.0,Y,Y,2013,1,13,N,6.917
+394,1630647,Eugene,Omoruyi,1997-02-14T00:00:00,Oregon,Nigeria,Oregon/Nigeria,6-6,235.0,1,97.0,Forward,Active,Pistons,DET,Detroit,2021.0,2022.0,Y,Y,Undrafted,Undrafted,Undrafted,N,6.5
+395,1626224,Cedi,Osman,1995-04-08T00:00:00,Anadolu Efes,Turkey,Anadolu Efes/Turkey,6-7,230.0,5,16.0,Forward,Active,Cavaliers,CLE,Cleveland,2017.0,2022.0,Y,Y,2015,2,31,N,6.583
+396,1626162,Kelly,Oubre Jr.,1995-12-09T00:00:00,Kansas,USA,Kansas/USA,6-6,203.0,7,12.0,Forward-Guard,Active,Hornets,CHA,Charlotte,2015.0,2022.0,Y,Y,2015,1,15,N,6.5
+397,1629672,Eric,Paschall,1996-11-04T00:00:00,Villanova,USA,Villanova/USA,6-6,255.0,4,0.0,Forward,Inactive,Jazz,UTA,Utah,2019.0,2021.0,Y,Y,2019,2,41,N,6.5
+398,101108,Chris,Paul,1985-05-06T00:00:00,Wake Forest,USA,Wake Forest/USA,6-0,175.0,17,3.0,Guard,Active,Suns,PHX,Phoenix,2005.0,2022.0,Y,Y,2005,1,4,Y,6.0
+399,1626166,Cameron,Payne,1994-08-08T00:00:00,Murray State,USA,Murray State/USA,6-1,183.0,7,15.0,Guard,Active,Suns,PHX,Phoenix,2015.0,2022.0,Y,Y,2015,1,14,N,6.083
+400,1627780,Gary,Payton II,1992-12-01T00:00:00,Oregon State,USA,Oregon State/USA,6-2,195.0,6,8.0,Guard,Active,Warriors,GSW,Golden State,2016.0,2022.0,Y,Y,Undrafted,Undrafted,Undrafted,N,6.167
+401,1630691,Jamorko,Pickett,1997-12-24T00:00:00,Georgetown,USA,Georgetown/USA,6-9,206.0,2,24.0,Forward,Inactive,Pistons,DET,Detroit,2021.0,2021.0,Y,Y,Undrafted,Undrafted,Undrafted,N,6.75
+402,1629033,Theo,Pinson,1995-11-05T00:00:00,North Carolina,USA,North Carolina/USA,6-7,212.0,4,1.0,Guard-Forward,Active,Mavericks,DAL,Dallas,2018.0,2022.0,Y,Y,Undrafted,Undrafted,Undrafted,N,6.583
+403,1630590,Scotty,Pippen Jr.,2000-11-10T00:00:00,Vanderbilt,USA,Vanderbilt/USA,6-1,170.0,0,14.0,Guard,Active,Lakers,LAL,Los Angeles,2022.0,2022.0,Y,Y,Undrafted,Undrafted,Undrafted,N,6.083
+404,203486,Mason,Plumlee,1990-03-05T00:00:00,Duke,USA,Duke/USA,7-0,254.0,9,44.0,Forward-Center,Active,Clippers,LAC,LA,2013.0,2022.0,Y,Y,2013,1,22,N,7.0
+405,1627751,Jakob,Poeltl,1995-10-15T00:00:00,Utah,Austria,Utah/Austria,7-1,245.0,6,19.0,Center,Active,Raptors,TOR,Toronto,2016.0,2022.0,Y,Y,2016,1,9,N,7.083
+406,1630197,Aleksej,Pokusevski,2001-12-26T00:00:00,Olympiacos,Serbia,Olympiacos/Serbia,7-0,210.0,2,17.0,Forward,Active,Thunder,OKC,Oklahoma City,2020.0,2022.0,Y,Y,2020,1,17,N,7.0
+407,1629673,Jordan,Poole,1999-06-19T00:00:00,Michigan,USA,Michigan/USA,6-4,194.0,3,3.0,Guard,Active,Warriors,GSW,Golden State,2019.0,2022.0,Y,Y,2019,1,28,N,6.333
+408,1629645,Kevin,Porter Jr.,2000-05-04T00:00:00,Southern California,USA,Southern California/USA,6-4,203.0,3,3.0,Guard-Forward,Active,Rockets,HOU,Houston,2019.0,2022.0,Y,Y,2019,1,30,N,6.333
+409,1629008,Michael,Porter Jr.,1998-06-29T00:00:00,Missouri,USA,Missouri/USA,6-10,218.0,3,1.0,Forward,Active,Nuggets,DEN,Denver,2018.0,2022.0,Y,Y,2018,1,14,N,6.833
+410,203490,Otto,Porter Jr.,1993-06-03T00:00:00,Georgetown,USA,Georgetown/USA,6-8,198.0,9,32.0,Forward,Active,Raptors,TOR,Toronto,2013.0,2022.0,Y,Y,2013,1,3,N,6.667
+411,1626171,Bobby,Portis,1995-02-10T00:00:00,Arkansas,USA,Arkansas/USA,6-11,250.0,7,9.0,Forward,Active,Bucks,MIL,Milwaukee,2015.0,2022.0,Y,Y,2015,1,22,N,6.917
+412,204001,Kristaps,Porzingis,1995-08-02T00:00:00,Cajasol Sevilla,Latvia,Cajasol Sevilla/Latvia,7-3,240.0,6,6.0,Forward-Center,Active,Wizards,WAS,Washington,2015.0,2022.0,Y,Y,2015,1,4,N,7.25
+413,203939,Dwight,Powell,1991-07-20T00:00:00,Stanford,Canada,Stanford/Canada,6-10,240.0,8,7.0,Forward-Center,Active,Mavericks,DAL,Dallas,2014.0,2022.0,Y,Y,2014,2,45,N,6.833
+414,1626181,Norman,Powell,1993-05-25T00:00:00,UCLA,USA,UCLA/USA,6-4,215.0,7,24.0,Guard,Active,Clippers,LAC,LA,2015.0,2022.0,Y,Y,2015,2,46,N,6.333
+415,1630554,Jason,Preston,1999-08-10T00:00:00,Ohio,USA,Ohio/USA,6-3,181.0,0,17.0,Guard,Active,Clippers,LAC,LA,2021.0,2022.0,Y,Y,2021,2,33,N,6.25
+416,1630563,Joshua,Primo,2002-12-24T00:00:00,Alabama,Canada,Alabama/Canada,6-6,189.0,1,,Guard,Inactive,,,,2021.0,2022.0,Y,Y,2021,1,12,N,6.5
+417,1627752,Taurean,Prince,1994-03-22T00:00:00,Baylor,USA,Baylor/USA,6-6,218.0,6,12.0,Forward,Active,Timberwolves,MIN,Minnesota,2016.0,2022.0,Y,Y,2016,1,12,N,6.5
+418,1630202,Payton,Pritchard,1998-01-28T00:00:00,Oregon,USA,Oregon/USA,6-1,195.0,2,11.0,Guard,Active,Celtics,BOS,Boston,2020.0,2022.0,Y,Y,2020,1,26,N,6.083
+419,1629674,Neemias,Queta,1999-07-13T00:00:00,Utah State,Portugal,Utah State/Portugal,7-0,248.0,1,88.0,Center,Active,Kings,SAC,Sacramento,2021.0,2022.0,Y,Y,2021,2,39,N,7.0
+420,1630193,Immanuel,Quickley,1999-06-17T00:00:00,Kentucky,USA,Kentucky/USA,6-2,190.0,2,5.0,Guard,Active,Knicks,NYK,New York,2020.0,2022.0,Y,Y,2020,1,25,N,6.167
+421,1626184,Chasson,Randle,1993-02-05T00:00:00,Stanford,USA,Stanford/USA,6-2,185.0,5,25.0,Guard,Inactive,Magic,ORL,Orlando,2016.0,2020.0,Y,Y,2015,,,N,6.167
+422,203944,Julius,Randle,1994-11-29T00:00:00,Kentucky,USA,Kentucky/USA,6-8,250.0,8,30.0,Forward-Center,Active,Knicks,NYK,New York,2014.0,2022.0,Y,Y,2014,1,7,N,6.667
+423,1630559,Austin,Reaves,1998-05-29T00:00:00,Oklahoma,USA,Oklahoma/USA,6-5,197.0,1,15.0,Guard,Active,Lakers,LAL,Los Angeles,2021.0,2022.0,Y,Y,Undrafted,Undrafted,Undrafted,N,6.417
+424,1629629,Cam,Reddish,1999-09-01T00:00:00,Duke,USA,Duke/USA,6-7,217.0,3,5.0,Forward-Guard,Active,Trail Blazers,POR,Portland,2019.0,2022.0,Y,Y,2019,1,10,N,6.583
+425,1628432,Davon,Reed,1995-06-11T00:00:00,Miami,USA,Miami/USA,6-5,206.0,3,11.0,Guard,Active,Lakers,LAL,Los Angeles,2017.0,2022.0,Y,Y,2017,2,32,N,6.417
+426,1630194,Paul,Reed,1999-06-14T00:00:00,DePaul,USA,DePaul/USA,6-9,210.0,2,44.0,Forward,Active,76ers,PHI,Philadelphia,2020.0,2022.0,Y,Y,2020,2,58,N,6.75
+427,1629675,Naz,Reid,1999-08-26T00:00:00,Louisiana State,USA,Louisiana State/USA,6-9,264.0,3,11.0,Center-Forward,Active,Timberwolves,MIN,Minnesota,2019.0,2022.0,Y,Y,Undrafted,Undrafted,Undrafted,N,6.75
+428,1631197,Jared,Rhoden,1999-08-27T00:00:00,Seton Hall,USA,Seton Hall/USA,6-6,210.0,0,8.0,Guard,Active,Pistons,DET,Detroit,2022.0,2022.0,Y,Y,Undrafted,Undrafted,Undrafted,N,6.5
+429,1630208,Nick,Richards,1997-11-29T00:00:00,Kentucky,Jamaica,Kentucky/Jamaica,7-0,245.0,2,4.0,Center,Active,Hornets,CHA,Charlotte,2020.0,2022.0,Y,Y,2020,2,42,N,7.0
+430,1626196,Josh,Richardson,1993-09-15T00:00:00,Tennessee,USA,Tennessee/USA,6-6,200.0,7,2.0,Guard,Active,Pelicans,NOP,New Orleans,2015.0,2022.0,Y,Y,2015,2,40,N,6.5
+431,203085,Austin,Rivers,1992-08-01T00:00:00,Duke,USA,Duke/USA,6-4,200.0,10,25.0,Guard,Active,Timberwolves,MIN,Minnesota,2012.0,2022.0,Y,Y,2012,1,10,N,6.333
+432,1629130,Duncan,Robinson,1994-04-22T00:00:00,Michigan,USA,Michigan/USA,6-7,215.0,4,55.0,Forward,Active,Heat,MIA,Miami,2018.0,2022.0,Y,Y,Undrafted,Undrafted,Undrafted,N,6.583
+433,1629010,Jerome,Robinson,1997-02-22T00:00:00,Boston College,USA,Boston College/USA,6-4,190.0,4,,Guard,Inactive,,,,2018.0,2020.0,Y,Y,2018,1,13,N,6.333
+434,1629011,Mitchell,Robinson,1998-04-01T00:00:00,Western Kentucky,USA,Western Kentucky/USA,7-0,240.0,4,23.0,Center-Forward,Active,Knicks,NYK,New York,2018.0,2022.0,Y,Y,2018,2,36,N,7.0
+435,1631115,Orlando,Robinson,2000-07-10T00:00:00,Fresno State,USA,Fresno State/USA,6-10,235.0,0,25.0,Center,Active,Heat,MIA,Miami,2022.0,2022.0,Y,Y,Undrafted,Undrafted,Undrafted,N,6.833
+436,1630526,Jeremiah,Robinson-Earl,2000-11-03T00:00:00,Villanova,USA,Villanova/USA,6-8,240.0,1,50.0,Forward,Active,Thunder,OKC,Oklahoma City,2021.0,2022.0,Y,Y,2021,2,32,N,6.667
+437,1629676,Isaiah,Roby,1998-02-03T00:00:00,Nebraska,USA,Nebraska/USA,6-8,230.0,3,,Forward,Inactive,,,,2019.0,2022.0,Y,Y,2019,2,45,N,6.667
+438,1631223,David,Roddy,2001-03-27T00:00:00,Colorado State,USA,Colorado State/USA,6-4,255.0,0,27.0,Forward,Active,Grizzlies,MEM,Memphis,2022.0,2022.0,Y,Y,2022,1,23,N,6.333
+439,1631157,Ryan,Rollins,2002-07-03T00:00:00,Toledo,USA,Toledo/USA,6-3,180.0,0,2.0,Guard,Active,Warriors,GSW,Golden State,2022.0,2022.0,Y,Y,2022,2,44,N,6.25
+440,201565,Derrick,Rose,1988-10-04T00:00:00,Memphis,USA,Memphis/USA,6-3,200.0,13,4.0,Guard,Active,Knicks,NYK,New York,2008.0,2022.0,Y,Y,2008,1,1,N,6.25
+441,203082,Terrence,Ross,1991-02-05T00:00:00,Washington,USA,Washington/USA,6-7,206.0,10,8.0,Guard-Forward,Active,Suns,PHX,Phoenix,2012.0,2022.0,Y,Y,2012,1,8,N,6.583
+442,1626179,Terry,Rozier,1994-03-17T00:00:00,Louisville,USA,Louisville/USA,6-1,190.0,7,3.0,Guard,Active,Hornets,CHA,Charlotte,2015.0,2022.0,Y,Y,2015,1,16,N,6.083
+443,201937,Ricky,Rubio,1990-10-21T00:00:00,FC Barcelona,Spain,FC Barcelona/Spain,6-2,190.0,11,13.0,Guard,Active,Cavaliers,CLE,Cleveland,2011.0,2022.0,Y,Y,2009,1,5,N,6.167
+444,1626156,D'Angelo,Russell,1996-02-23T00:00:00,Ohio State,USA,Ohio State/USA,6-4,193.0,7,1.0,Guard,Active,Lakers,LAL,Los Angeles,2015.0,2022.0,Y,Y,2015,1,2,N,6.333
+445,1630346,Matt,Ryan,1997-04-17T00:00:00,Tennessee-Chattanooga,USA,Tennessee-Chattanooga/USA,6-6,215.0,1,37.0,Forward,Active,Timberwolves,MIN,Minnesota,2021.0,2022.0,Y,Y,Undrafted,Undrafted,Undrafted,N,6.5
+446,1627734,Domantas,Sabonis,1996-05-03T00:00:00,Gonzaga,Lithuania,Gonzaga/Lithuania,7-1,240.0,6,10.0,Forward-Center,Active,Kings,SAC,Sacramento,2016.0,2022.0,Y,Y,2016,1,11,N,7.083
+447,203967,Dario,Saric,1994-04-08T00:00:00,Anadolu Efes,Croatia,Anadolu Efes/Croatia,6-10,225.0,5,9.0,Forward-Center,Active,Thunder,OKC,Oklahoma City,2016.0,2022.0,Y,Y,2014,1,12,N,6.833
+448,1630846,Olivier,Sarr,1999-02-20T00:00:00,Kentucky,France,Kentucky/France,6-11,240.0,1,30.0,Center,Active,Thunder,OKC,Oklahoma City,2021.0,2022.0,Y,Y,Undrafted,Undrafted,Undrafted,N,6.917
+449,1630648,Jordan,Schakel,1998-06-13T00:00:00,San Diego State,USA,San Diego State/USA,6-6,200.0,1,,Guard,Inactive,,,,2021.0,2022.0,Y,Y,Undrafted,Undrafted,Undrafted,N,6.5
+450,1629678,Admiral,Schofield,1997-03-30T00:00:00,Tennessee,United Kingdom,Tennessee/United Kingdom,6-5,241.0,2,25.0,Forward,Active,Magic,ORL,Orlando,2019.0,2022.0,Y,Y,2019,2,42,N,6.417
+451,203471,Dennis,Schroder,1993-09-15T00:00:00,Braunschweig,Germany,Braunschweig/Germany,6-1,172.0,9,17.0,Guard,Active,Lakers,LAL,Los Angeles,2013.0,2022.0,Y,Y,2013,1,17,N,6.083
+452,1630206,Jay,Scrubb,2000-09-01T00:00:00,John A. Logan,USA,John A. Logan/USA,6-5,220.0,3,0.0,Guard,Inactive,Clippers,LAC,LA,2020.0,2021.0,Y,Y,2020,2,55,N,6.417
+453,1631220,Dereon,Seabron,2000-05-26T00:00:00,North Carolina State,USA,North Carolina State/USA,6-5,180.0,0,0.0,Guard,Active,Pelicans,NOP,New Orleans,2022.0,2022.0,Y,Y,Undrafted,Undrafted,Undrafted,N,6.417
+454,1630578,Alperen,Sengun,2002-07-25T00:00:00,Besiktas,Turkey,Besiktas/Turkey,6-11,243.0,1,28.0,Center,Active,Rockets,HOU,Houston,2021.0,2022.0,Y,Y,2021,1,16,N,6.917
+455,1629012,Collin,Sexton,1999-01-04T00:00:00,Alabama,USA,Alabama/USA,6-2,190.0,4,2.0,Guard,Active,Jazz,UTA,Utah,2018.0,2022.0,Y,Y,2018,1,8,N,6.167
+456,1629013,Landry,Shamet,1997-03-13T00:00:00,Wichita State,USA,Wichita State/USA,6-4,190.0,4,14.0,Guard,Active,Suns,PHX,Phoenix,2018.0,2022.0,Y,Y,2018,1,26,N,6.333
+457,1630549,Day'Ron,Sharpe,2001-11-06T00:00:00,North Carolina,USA,North Carolina/USA,6-9,265.0,1,20.0,Center,Active,Nets,BKN,Brooklyn,2021.0,2022.0,Y,Y,2021,1,29,N,6.75
+458,1631101,Shaedon,Sharpe,2003-05-30T00:00:00,Kentucky,Canada,Kentucky/Canada,6-5,200.0,0,17.0,Guard,Active,Trail Blazers,POR,Portland,2022.0,2022.0,Y,Y,2022,1,7,N,6.417
+459,1627783,Pascal,Siakam,1994-04-02T00:00:00,New Mexico State,Cameroon,New Mexico State/Cameroon,6-8,230.0,6,43.0,Forward,Active,Raptors,TOR,Toronto,2016.0,2022.0,Y,Y,2016,1,27,N,6.667
+460,1627732,Ben,Simmons,1996-07-20T00:00:00,Louisiana State,Australia,Louisiana State/Australia,6-10,240.0,4,10.0,Guard-Forward,Active,Nets,BKN,Brooklyn,2016.0,2022.0,Y,Y,2016,1,1,N,6.833
+461,1630250,Marko,Simonovic,1999-10-15T00:00:00,Mega Basket,Montenegro,Mega Basket/Montenegro,7-0,220.0,1,19.0,Center,Active,Bulls,CHI,Chicago,2021.0,2022.0,Y,Y,2020,2,44,N,7.0
+462,1629014,Anfernee,Simons,1999-06-08T00:00:00,Edgewater HS (FL),USA,Edgewater HS (FL)/USA,6-3,181.0,4,1.0,Guard,Active,Trail Blazers,POR,Portland,2018.0,2022.0,Y,Y,2018,1,24,N,6.25
+463,1630579,Jericho,Sims,1998-10-20T00:00:00,Texas,USA,Texas/USA,6-10,250.0,1,45.0,Center,Active,Knicks,NYK,New York,2021.0,2022.0,Y,Y,2021,2,58,N,6.833
+464,1629686,Deividas,Sirvydis,2000-06-10T00:00:00,Lietuvos rytas Vilnius,Lithuania,Lietuvos rytas Vilnius/Lithuania,6-8,190.0,3,,Forward-Guard,Inactive,,,,2020.0,2021.0,Y,Y,2019,2,37,N,6.667
+465,1630606,Javonte,Smart,1999-06-03T00:00:00,Louisiana State,USA,Louisiana State/USA,6-4,205.0,2,15.0,Guard,Inactive,Heat,MIA,Miami,2021.0,2021.0,Y,Y,Undrafted,Undrafted,Undrafted,N,6.333
+466,203935,Marcus,Smart,1994-03-06T00:00:00,Oklahoma State,USA,Oklahoma State/USA,6-4,220.0,8,36.0,Guard,Active,Celtics,BOS,Boston,2014.0,2022.0,Y,Y,2014,1,6,N,6.333
+467,1630696,Dru,Smith,1997-12-30T00:00:00,Missouri,USA,Missouri/USA,6-3,203.0,0,9.0,Guard,Active,Nets,BKN,Brooklyn,2022.0,2022.0,Y,Y,Undrafted,Undrafted,Undrafted,N,6.25
+468,202397,Ish,Smith,1988-07-05T00:00:00,Wake Forest,USA,Wake Forest/USA,6-0,175.0,12,14.0,Guard,Active,Nuggets,DEN,Denver,2010.0,2022.0,Y,Y,Undrafted,Undrafted,Undrafted,N,6.0
+469,1630188,Jalen,Smith,2000-03-16T00:00:00,Maryland,USA,Maryland/USA,6-9,215.0,2,25.0,Forward-Center,Active,Pacers,IND,Indiana,2020.0,2022.0,Y,Y,2020,1,10,N,6.75
+470,1628372,Dennis,Smith Jr.,1997-11-25T00:00:00,North Carolina State,USA,North Carolina State/USA,6-2,205.0,5,8.0,Guard,Active,Hornets,CHA,Charlotte,2017.0,2022.0,Y,Y,2017,1,9,N,6.167
+471,1631095,Jabari,Smith Jr.,2003-05-13T00:00:00,Auburn,USA,Auburn/USA,6-11,220.0,0,1.0,Forward,Active,Rockets,HOU,Houston,2022.0,2022.0,Y,Y,2022,1,3,N,6.917
+472,1630270,Xavier,Sneed,1997-12-21T00:00:00,Kansas State,USA,Kansas State/USA,6-5,215.0,2,19.0,Forward,Inactive,Jazz,UTA,Utah,2021.0,2021.0,Y,Y,Undrafted,Undrafted,Undrafted,N,6.417
+473,1631110,Jeremy,Sochan,2003-05-20T00:00:00,Baylor,Poland,Baylor/Poland,6-8,230.0,0,10.0,Forward,Active,Spurs,SAS,San Antonio,2022.0,2022.0,Y,Y,2022,1,9,N,6.667
+474,1630531,Jaden,Springer,2002-09-25T00:00:00,Tennessee,USA,Tennessee/USA,6-4,202.0,1,11.0,Guard,Active,76ers,PHI,Philadelphia,2021.0,2022.0,Y,Y,2021,1,28,N,6.333
+475,1630205,Lamar,Stevens,1997-07-09T00:00:00,Penn State,USA,Penn State/USA,6-6,230.0,2,8.0,Forward,Active,Cavaliers,CLE,Cleveland,2020.0,2022.0,Y,Y,Undrafted,Undrafted,Undrafted,N,6.5
+476,1630597,DJ,Stewart,1999-07-28T00:00:00,Mississippi State,USA,Mississippi State/USA,6-5,205.0,1,18.0,Guard,Inactive,Spurs,SAS,San Antonio,2021.0,2021.0,N,Y,Undrafted,Undrafted,Undrafted,N,6.417
+477,1630191,Isaiah,Stewart,2001-05-22T00:00:00,Washington,USA,Washington/USA,6-8,250.0,2,28.0,Forward-Center,Active,Pistons,DET,Detroit,2020.0,2022.0,Y,Y,2020,1,16,N,6.667
+478,1629622,Max,Strus,1996-03-28T00:00:00,DePaul,USA,DePaul/USA,6-5,215.0,3,31.0,Guard-Forward,Active,Heat,MIA,Miami,2019.0,2022.0,Y,Y,Undrafted,Undrafted,Undrafted,N,6.417
+479,1630591,Jalen,Suggs,2001-06-03T00:00:00,Gonzaga,USA,Gonzaga/USA,6-5,205.0,1,4.0,Guard,Active,Magic,ORL,Orlando,2021.0,2022.0,Y,Y,2021,1,5,N,6.417
+480,1628410,Edmond,Sumner,1995-12-31T00:00:00,Xavier,USA,Xavier/USA,6-4,196.0,4,4.0,Guard,Active,Nets,BKN,Brooklyn,2017.0,2022.0,Y,Y,2017,2,52,N,6.333
+481,1631306,Cole,Swider,1999-05-08T00:00:00,Syracuse,USA,Syracuse/USA,6-9,220.0,0,20.0,Forward,Active,Lakers,LAL,Los Angeles,2022.0,2022.0,Y,Y,Undrafted,Undrafted,Undrafted,N,6.75
+482,1630256,Jae'Sean,Tate,1995-10-28T00:00:00,Ohio State,USA,Ohio State/USA,6-5,230.0,2,8.0,Forward,Active,Rockets,HOU,Houston,2020.0,2022.0,Y,Y,Undrafted,Undrafted,Undrafted,N,6.417
+483,1628369,Jayson,Tatum,1998-03-03T00:00:00,Duke,USA,Duke/USA,6-8,210.0,5,0.0,Forward-Guard,Active,Celtics,BOS,Boston,2017.0,2022.0,Y,Y,2017,1,3,N,6.667
+484,1630678,Terry,Taylor,1999-09-23T00:00:00,Austin Peay,USA,Austin Peay/USA,6-4,230.0,1,32.0,Forward,Active,Bulls,CHI,Chicago,2021.0,2022.0,Y,Y,Undrafted,Undrafted,Undrafted,N,6.333
+485,202066,Garrett,Temple,1986-05-08T00:00:00,Louisiana State,USA,Louisiana State/USA,6-6,195.0,12,41.0,Guard-Forward,Active,Pelicans,NOP,New Orleans,2009.0,2022.0,Y,Y,Undrafted,Undrafted,Undrafted,N,6.5
+486,1631207,Dalen,Terry,2002-07-12T00:00:00,Arizona,USA,Arizona/USA,6-7,195.0,0,25.0,Forward,Active,Bulls,CHI,Chicago,2022.0,2022.0,Y,Y,2022,1,18,N,6.583
+487,1628464,Daniel,Theis,1992-04-04T00:00:00,Brose Bamberg,Germany,Brose Bamberg/Germany,6-8,245.0,5,27.0,Forward-Center,Active,Pacers,IND,Indiana,2017.0,2022.0,Y,Y,Undrafted,Undrafted,Undrafted,N,6.667
+488,1630271,Brodric,Thomas,1997-01-28T00:00:00,,USA,Truman State/USA,6-5,185.0,3,97.0,Guard,Inactive,Celtics,BOS,Boston,2020.0,2021.0,Y,Y,Undrafted,Undrafted,Undrafted,N,6.417
+489,1630560,Cam,Thomas,2001-10-13T00:00:00,Louisiana State,Japan,Louisiana State/Japan,6-3,210.0,1,24.0,Guard,Active,Nets,BKN,Brooklyn,2021.0,2022.0,Y,Y,2021,1,27,N,6.25
+490,202691,Klay,Thompson,1990-02-08T00:00:00,Washington State,USA,Washington State/USA,6-6,220.0,9,11.0,Guard,Active,Warriors,GSW,Golden State,2011.0,2022.0,Y,Y,2011,1,11,N,6.5
+491,1630550,JT,Thor,2002-08-26T00:00:00,Auburn,USA,Auburn/USA,6-9,203.0,1,21.0,Forward,Active,Hornets,CHA,Charlotte,2021.0,2022.0,Y,Y,2021,2,37,N,6.75
+492,1629680,Matisse,Thybulle,1997-03-04T00:00:00,Washington,USA,Washington/USA,6-5,201.0,3,4.0,Guard-Forward,Active,Trail Blazers,POR,Portland,2019.0,2022.0,Y,Y,2019,1,20,N,6.417
+493,1629681,Killian,Tillie,1998-03-05T00:00:00,Gonzaga,France,Gonzaga/France,6-9,220.0,3,35.0,Forward-Center,Inactive,Grizzlies,MEM,Memphis,2020.0,2021.0,Y,Y,Undrafted,Undrafted,Undrafted,N,6.75
+494,1630214,Xavier,Tillman,1999-01-12T00:00:00,Michigan State,USA,Michigan State/USA,6-7,245.0,2,2.0,Forward,Active,Grizzlies,MEM,Memphis,2020.0,2022.0,Y,Y,2020,2,35,N,6.583
+495,1630225,Isaiah,Todd,2001-10-17T00:00:00,NBA G League Ignite,USA,NBA G League Ignite/USA,6-9,219.0,1,14.0,Forward,Active,Wizards,WAS,Washington,2021.0,2022.0,Y,Y,2021,2,31,N,6.75
+496,1630167,Obi,Toppin,1998-03-04T00:00:00,Dayton,USA,Dayton/USA,6-9,220.0,2,1.0,Forward,Active,Knicks,NYK,New York,2020.0,2022.0,Y,Y,2020,1,8,N,6.75
+497,1629308,Juan,Toscano-Anderson,1993-04-10T00:00:00,Marquette,USA,Marquette/USA,6-6,209.0,3,95.0,Forward,Active,Jazz,UTA,Utah,2019.0,2022.0,Y,Y,Undrafted,Undrafted,Undrafted,N,6.5
+498,1626157,Karl-Anthony,Towns,1995-11-15T00:00:00,Kentucky,USA,Kentucky/USA,7-0,248.0,7,32.0,Center-Forward,Active,Timberwolves,MIN,Minnesota,2015.0,2022.0,Y,Y,2015,1,1,N,7.0
+499,1629018,Gary,Trent Jr.,1999-01-18T00:00:00,Duke,USA,Duke/USA,6-5,209.0,4,33.0,Guard-Forward,Active,Raptors,TOR,Toronto,2018.0,2022.0,Y,Y,2018,2,37,N,6.417
+500,200782,P.J.,Tucker,1985-05-05T00:00:00,Texas,USA,Texas/USA,6-5,245.0,11,17.0,Forward,Active,76ers,PHI,Philadelphia,2006.0,2022.0,Y,Y,2006,2,35,N,6.417
+501,1626167,Myles,Turner,1996-03-24T00:00:00,Texas,USA,Texas/USA,6-11,250.0,7,33.0,Center-Forward,Active,Pacers,IND,Indiana,2015.0,2022.0,Y,Y,2015,1,11,N,6.917
+502,1630649,Stanley,Umude,1999-04-12T00:00:00,Arkansas,USA,Arkansas/USA,6-6,210.0,0,,Guard,Inactive,,,,2022.0,2022.0,Y,Y,Undrafted,Undrafted,Undrafted,N,6.5
+503,202685,Jonas,Valanciunas,1992-05-06T00:00:00,Lietuvos rytas Vilnius,Lithuania,Lietuvos rytas Vilnius/Lithuania,6-11,265.0,10,17.0,Center,Active,Pelicans,NOP,New Orleans,2012.0,2022.0,Y,Y,2011,1,5,N,6.917
+504,1627832,Fred,VanVleet,1994-02-25T00:00:00,Wichita State,USA,Wichita State/USA,6-0,197.0,6,23.0,Guard,Active,Raptors,TOR,Toronto,2016.0,2022.0,Y,Y,Undrafted,Undrafted,Undrafted,N,6.0
+505,1629020,Jarred,Vanderbilt,1999-04-03T00:00:00,Kentucky,USA,Kentucky/USA,6-8,214.0,4,2.0,Forward,Active,Lakers,LAL,Los Angeles,2018.0,2022.0,Y,Y,2018,2,41,N,6.667
+506,1630170,Devin,Vassell,2000-08-23T00:00:00,Florida State,USA,Florida State/USA,6-5,200.0,2,24.0,Guard-Forward,Active,Spurs,SAS,San Antonio,2020.0,2022.0,Y,Y,2020,1,11,N,6.417
+507,1630492,Luca,Vildoza,1995-08-11T00:00:00,Baskonia,Argentina,Baskonia/Argentina,6-3,190.0,2,6.0,Guard,Inactive,Bucks,MIL,Milwaukee,2020.0,2021.0,Y,Y,Undrafted,Undrafted,Undrafted,N,6.25
+508,1629216,Gabe,Vincent,1996-06-14T00:00:00,California-Santa Barbara,USA,California-Santa Barbara/USA,6-2,200.0,3,2.0,Guard,Active,Heat,MIA,Miami,2019.0,2022.0,Y,Y,Undrafted,Undrafted,Undrafted,N,6.167
+509,203943,Noah,Vonleh,1995-08-24T00:00:00,Indiana,USA,Indiana/USA,6-10,257.0,7,,Forward,Inactive,,,,2014.0,2022.0,Y,Y,2014,1,9,N,6.833
+510,202696,Nikola,Vucevic,1990-10-24T00:00:00,Southern California,Montenegro,Southern California/Montenegro,6-10,260.0,11,9.0,Center,Active,Bulls,CHI,Chicago,2011.0,2022.0,Y,Y,2011,1,16,N,6.833
+511,1629731,Dean,Wade,1996-11-20T00:00:00,Kansas State,USA,Kansas State/USA,6-9,228.0,3,32.0,Forward-Center,Active,Cavaliers,CLE,Cleveland,2019.0,2022.0,Y,Y,Undrafted,Undrafted,Undrafted,N,6.75
+512,1630532,Franz,Wagner,2001-08-27T00:00:00,Michigan,Germany,Michigan/Germany,6-10,220.0,1,22.0,Forward,Active,Magic,ORL,Orlando,2021.0,2022.0,Y,Y,2021,1,8,N,6.833
+513,1629021,Moritz,Wagner,1997-04-26T00:00:00,Michigan,Germany,Michigan/Germany,6-11,245.0,4,21.0,Forward-Center,Active,Magic,ORL,Orlando,2018.0,2022.0,Y,Y,2018,1,25,N,6.917
+514,1630688,Ish,Wainright,1994-09-12T00:00:00,Baylor,USA,Baylor/USA,6-5,250.0,1,12.0,Forward,Active,Suns,PHX,Phoenix,2021.0,2022.0,Y,Y,Undrafted,Undrafted,Undrafted,N,6.417
+515,1631133,Jabari,Walker,2002-07-30T00:00:00,Colorado,USA,Colorado/USA,6-7,200.0,0,34.0,Forward,Active,Trail Blazers,POR,Portland,2022.0,2022.0,Y,Y,2022,2,57,N,6.583
+516,202689,Kemba,Walker,1990-05-08T00:00:00,Connecticut,USA,Connecticut/USA,6-0,184.0,11,,Guard,Inactive,,,,2011.0,2022.0,Y,Y,2011,1,9,N,6.0
+517,1629022,Lonnie,Walker IV,1998-12-14T00:00:00,Miami,USA,Miami/USA,6-4,204.0,4,4.0,Guard-Forward,Active,Lakers,LAL,Los Angeles,2018.0,2022.0,Y,Y,2018,1,18,N,6.333
+518,202322,John,Wall,1990-09-06T00:00:00,Kentucky,USA,Kentucky/USA,6-3,210.0,10,,Guard,Inactive,,,,2010.0,2022.0,Y,Y,2010,1,1,N,6.25
+519,203933,T.J.,Warren,1993-09-05T00:00:00,North Carolina State,USA,North Carolina State/USA,6-8,220.0,7,21.0,Forward,Active,Suns,PHX,Phoenix,2014.0,2022.0,Y,Y,2014,1,14,N,6.667
+520,1629023,P.J.,Washington,1998-08-23T00:00:00,Kentucky,USA,Kentucky/USA,6-7,230.0,3,25.0,Forward,Active,Hornets,CHA,Charlotte,2019.0,2022.0,Y,Y,2019,1,12,N,6.583
+521,1630613,Duane,Washington Jr.,2000-03-24T00:00:00,Ohio State,Germany,Ohio State/Germany,6-2,197.0,1,4.0,Guard,Active,Knicks,NYK,New York,2021.0,2022.0,Y,Y,Undrafted,Undrafted,Undrafted,N,6.167
+522,1631102,TyTy,Washington Jr.,2001-11-15T00:00:00,Kentucky,USA,Kentucky/USA,6-3,195.0,0,0.0,Guard,Active,Rockets,HOU,Houston,2022.0,2022.0,Y,Y,2022,1,29,N,6.25
+523,1629139,Yuta,Watanabe,1994-10-13T00:00:00,George Washington,Japan,George Washington/Japan,6-8,215.0,4,18.0,Guard-Forward,Active,Nets,BKN,Brooklyn,2018.0,2022.0,Y,Y,Undrafted,Undrafted,Undrafted,N,6.667
+524,1630322,Lindy,Waters III,1997-07-28T00:00:00,Oklahoma State,USA,Oklahoma State/USA,6-6,210.0,1,12.0,Forward,Active,Thunder,OKC,Oklahoma City,2021.0,2022.0,Y,Y,Undrafted,Undrafted,Undrafted,N,6.5
+525,1630570,Trendon,Watford,2000-11-09T00:00:00,Louisiana State,USA,Louisiana State/USA,6-8,237.0,1,2.0,Forward,Active,Trail Blazers,POR,Portland,2021.0,2022.0,Y,Y,Undrafted,Undrafted,Undrafted,N,6.667
+526,1631212,Peyton,Watson,2002-09-11T00:00:00,UCLA,USA,UCLA/USA,6-7,200.0,0,8.0,Guard,Active,Nuggets,DEN,Denver,2022.0,2022.0,Y,Y,2022,1,30,N,6.583
+527,1629683,Quinndary,Weatherspoon,1996-09-10T00:00:00,Mississippi State,USA,Mississippi State/USA,6-3,205.0,4,15.0,Guard,Inactive,Warriors,GSW,Golden State,2019.0,2021.0,Y,Y,2019,2,49,N,6.25
+528,1631104,Blake,Wesley,2003-03-16T00:00:00,Notre Dame,USA,Notre Dame/USA,6-4,185.0,0,14.0,Guard,Active,Spurs,SAS,San Antonio,2022.0,2022.0,Y,Y,2022,1,25,N,6.333
+529,201566,Russell,Westbrook,1988-11-12T00:00:00,UCLA,USA,UCLA/USA,6-3,200.0,14,0.0,Guard,Active,Clippers,LAC,LA,2008.0,2022.0,Y,Y,2008,1,4,Y,6.25
+530,1629632,Coby,White,2000-02-16T00:00:00,North Carolina,USA,North Carolina/USA,6-5,195.0,3,0.0,Guard,Active,Bulls,CHI,Chicago,2019.0,2022.0,Y,Y,2019,1,7,N,6.417
+531,1628401,Derrick,White,1994-07-02T00:00:00,Colorado,USA,Colorado/USA,6-4,190.0,5,9.0,Guard,Active,Celtics,BOS,Boston,2017.0,2022.0,Y,Y,2017,1,29,N,6.333
+532,1631298,Jack,White,1997-08-05T00:00:00,Duke,Australia,Duke/Australia,6-7,225.0,0,10.0,Forward,Active,Nuggets,DEN,Denver,2022.0,2022.0,Y,Y,Undrafted,Undrafted,Undrafted,N,6.583
+533,1630580,Joe,Wieskamp,1999-08-23T00:00:00,Iowa,USA,Iowa/USA,6-6,205.0,1,11.0,Guard-Forward,Active,Raptors,TOR,Toronto,2021.0,2022.0,Y,Y,2021,2,41,N,6.5
+534,1630598,Aaron,Wiggins,1999-01-02T00:00:00,Maryland,USA,Maryland/USA,6-5,190.0,1,21.0,Guard,Active,Thunder,OKC,Oklahoma City,2021.0,2022.0,Y,Y,2021,2,55,N,6.417
+535,203952,Andrew,Wiggins,1995-02-23T00:00:00,Kansas,Canada,Kansas/Canada,6-7,197.0,8,22.0,Forward,Active,Warriors,GSW,Golden State,2014.0,2022.0,Y,Y,2014,1,1,N,6.583
+536,1629623,Lindell,Wigginton,1998-03-28T00:00:00,Iowa State,Canada,Iowa State/Canada,6-1,189.0,1,28.0,Guard,Active,Bucks,MIL,Milwaukee,2021.0,2022.0,Y,Y,2019,,,N,6.083
+537,1631214,Alondes,Williams,1999-06-19T00:00:00,Wake Forest,USA,Wake Forest/USA,6-4,210.0,0,,Guard,Inactive,,,,2022.0,2022.0,Y,Y,Undrafted,Undrafted,Undrafted,N,6.333
+538,1629684,Grant,Williams,1998-11-30T00:00:00,Tennessee,USA,Tennessee/USA,6-6,236.0,3,12.0,Forward,Active,Celtics,BOS,Boston,2019.0,2022.0,Y,Y,2019,1,22,N,6.5
+539,1631114,Jalen,Williams,2001-04-14T00:00:00,Santa Clara,USA,Santa Clara/USA,6-5,211.0,0,8.0,Guard-Forward,Active,Thunder,OKC,Oklahoma City,2022.0,2022.0,Y,Y,2022,1,12,N,6.417
+540,1631119,Jaylin,Williams,2002-06-29T00:00:00,Arkansas,USA,Arkansas/USA,6-9,240.0,0,6.0,Forward,Active,Thunder,OKC,Oklahoma City,2022.0,2022.0,Y,Y,2022,2,34,N,6.75
+541,1629026,Kenrich,Williams,1994-12-02T00:00:00,TCU,USA,TCU/USA,6-6,210.0,4,34.0,Guard-Forward,Active,Thunder,OKC,Oklahoma City,2018.0,2022.0,Y,Y,Undrafted,Undrafted,Undrafted,N,6.5
+542,1631109,Mark,Williams,2001-12-16T00:00:00,Duke,USA,Duke/USA,7-0,240.0,0,5.0,Center,Active,Hornets,CHA,Charlotte,2022.0,2022.0,Y,Y,2022,1,15,N,7.0
+543,1630172,Patrick,Williams,2001-08-26T00:00:00,Florida State,USA,Florida State/USA,6-7,215.0,2,44.0,Forward,Active,Bulls,CHI,Chicago,2020.0,2022.0,Y,Y,2020,1,4,N,6.583
+544,1630533,Ziaire,Williams,2001-09-12T00:00:00,Stanford,USA,Stanford/USA,6-9,185.0,1,8.0,Forward,Active,Grizzlies,MEM,Memphis,2021.0,2022.0,Y,Y,2021,1,10,N,6.75
+545,1629057,Robert,Williams III,1997-10-17T00:00:00,Texas A&M,USA,Texas A&M/USA,6-9,237.0,4,44.0,Center-Forward,Active,Celtics,BOS,Boston,2018.0,2022.0,Y,Y,2018,1,27,N,6.75
+546,1631246,Vince,Williams Jr.,2000-08-30T00:00:00,Virginia Commonwealth,USA,Virginia Commonwealth/USA,6-4,205.0,0,5.0,Guard,Active,Grizzlies,MEM,Memphis,2022.0,2022.0,Y,Y,2022,2,47,N,6.333
+547,1629627,Zion,Williamson,2000-07-06T00:00:00,Duke,USA,Duke/USA,6-6,284.0,2,1.0,Forward,Active,Pelicans,NOP,New Orleans,2019.0,2022.0,Y,Y,2019,1,1,N,6.5
+548,1628391,D.J.,Wilson,1996-02-19T00:00:00,Michigan,USA,Michigan/USA,6-10,231.0,6,,Forward,Inactive,,,,2017.0,2021.0,Y,Y,2017,1,17,N,6.833
+549,1629685,Dylan,Windler,1996-09-22T00:00:00,Belmont,USA,Belmont/USA,6-7,196.0,2,9.0,Guard-Forward,Active,Cavaliers,CLE,Cleveland,2019.0,2022.0,Y,Y,2019,1,26,N,6.583
+550,1626159,Justise,Winslow,1996-03-26T00:00:00,Duke,USA,Duke/USA,6-6,222.0,7,26.0,Forward-Guard,Active,Trail Blazers,POR,Portland,2015.0,2022.0,Y,Y,2015,1,10,N,6.5
+551,1630164,James,Wiseman,2001-03-31T00:00:00,Memphis,USA,Memphis/USA,7-0,240.0,1,13.0,Center,Active,Pistons,DET,Detroit,2020.0,2022.0,Y,Y,2020,1,2,N,7.0
+552,1626174,Christian,Wood,1995-09-27T00:00:00,UNLV,USA,UNLV/USA,6-9,214.0,6,35.0,Forward,Active,Mavericks,DAL,Dallas,2015.0,2022.0,Y,Y,Undrafted,Undrafted,Undrafted,N,6.75
+553,1626153,Delon,Wright,1992-04-26T00:00:00,Utah,USA,Utah/USA,6-5,185.0,7,55.0,Guard,Active,Wizards,WAS,Washington,2015.0,2022.0,Y,Y,2015,1,20,N,6.417
+554,1630593,McKinley,Wright IV,1998-10-25T00:00:00,Colorado,USA,Colorado/USA,5-11,192.0,1,23.0,Guard,Active,Mavericks,DAL,Dallas,2021.0,2022.0,Y,Y,Undrafted,Undrafted,Undrafted,N,5.917
+555,201152,Thaddeus,Young,1988-06-21T00:00:00,Georgia Tech,USA,Georgia Tech/USA,6-8,235.0,15,21.0,Forward,Active,Raptors,TOR,Toronto,2007.0,2022.0,Y,Y,2007,1,12,N,6.667
+556,1629027,Trae,Young,1998-09-19T00:00:00,Oklahoma,USA,Oklahoma/USA,6-1,164.0,4,11.0,Guard,Active,Hawks,ATL,Atlanta,2018.0,2022.0,Y,Y,2018,1,5,N,6.083
+557,1630209,Omer,Yurtseven,1998-06-19T00:00:00,Georgetown,Turkey,Georgetown/Turkey,6-11,275.0,1,77.0,Center,Active,Heat,MIA,Miami,2020.0,2022.0,Y,Y,Undrafted,Undrafted,Undrafted,N,6.917
+558,203469,Cody,Zeller,1992-10-05T00:00:00,Indiana,USA,Indiana/USA,6-11,240.0,9,44.0,Forward-Center,Active,Heat,MIA,Miami,2013.0,2022.0,Y,Y,2013,1,4,N,6.917
+559,1627826,Ivica,Zubac,1997-03-18T00:00:00,Mega Basket,Croatia,Mega Basket/Croatia,7-0,240.0,6,40.0,Center,Active,Clippers,LAC,LA,2016.0,2022.0,Y,Y,2016,2,32,N,7.0
